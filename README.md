@@ -1,4 +1,4 @@
-# MultiLanguage DE language pack
+# MultiLanguage German language pack
 
 ## Description
 This is the German (DE) language pack for the Wrath of the Lich King version of the [MultiLanguage addon](https://www.curseforge.com/wow/addons/multilanguage). It requires the base addon to work. Installing it adds the German option within the addon configuration. This language pack is not required for the classic version of the game, only for Wrath of the Lich King.
