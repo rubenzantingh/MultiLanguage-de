@@ -16,7 +16,7 @@ local function addLanguageOption()
         AddLanguageDropdownOption()
     end
 
-    if MultiLanguageNpcData['de'] == nil then
+    if MultiLanguageTranslations['de'] == nil then
         MultiLanguageTranslations['de'] = {
             description = 'Beschreibung',
             objectives = 'Questziele'
