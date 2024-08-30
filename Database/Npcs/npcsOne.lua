@@ -4149,7 +4149,7 @@ MultiLanguageNpcData['de'][5043] = {name = "Rabauke", subname = nil}
 MultiLanguageNpcData['de'][5044] = {name = "Scharmützler von Theramore", subname = nil}
 MultiLanguageNpcData['de'][5045] = {name = "Gefreite Hallan", subname = nil}
 MultiLanguageNpcData['de'][5046] = {name = "Leutnant Kaldenbrunn", subname = nil}
-MultiLanguageNpcData['de'][5047] = {name = "Ellaercia", subname = "Designerin für Gildenwappenröcke"}
+MultiLanguageNpcData['de'][5047] = {name = "Ellaercia", subname = "Designerin für Wappenröcke"}
 MultiLanguageNpcData['de'][5048] = {name = "Deviatotter", subname = nil}
 MultiLanguageNpcData['de'][5049] = {name = "Lyesa Stahlbraue", subname = "Verkäuferin für Wappenröcke"}
 MultiLanguageNpcData['de'][5052] = {name = "Edward Remington", subname = "Designer für Wappenröcke"}
@@ -6648,8 +6648,8 @@ MultiLanguageNpcData['de'][10264] = {name = "Solakar Feuerkrone", subname = nil}
 MultiLanguageNpcData['de'][10266] = {name = "Ug'thok", subname = "Schmiedekunstlehrling"}
 MultiLanguageNpcData['de'][10267] = {name = "Tinkee Kesseldampf", subname = nil}
 MultiLanguageNpcData['de'][10268] = {name = "Gizrul der Geifernde", subname = nil}
-MultiLanguageNpcData['de'][10276] = {name = "Rotgath Steinbart", subname = "Schmiedekunstlehrling"}
-MultiLanguageNpcData['de'][10277] = {name = "Groum Steinbart", subname = "Schmiedekunstlehrling"}
+MultiLanguageNpcData['de'][10276] = {name = "Rotgath Steinbart", subname = "Schmiedekunstmeister"}
+MultiLanguageNpcData['de'][10277] = {name = "Groum Steinbart", subname = "Schmied"}
 MultiLanguageNpcData['de'][10278] = {name = "Thrag Steinhuf", subname = "Schmiedekunstlehrling"}
 MultiLanguageNpcData['de'][10290] = {name = "Gefangener Teufelswaldschlamm", subname = nil}
 MultiLanguageNpcData['de'][10291] = {name = "Krysteea", subname = "Kriegerlehrerin"}
@@ -7122,7 +7122,7 @@ MultiLanguageNpcData['de'][11141] = {name = "Geist von Trey Lichtschmied", subna
 MultiLanguageNpcData['de'][11142] = {name = "Untoter Postbote", subname = nil}
 MultiLanguageNpcData['de'][11143] = {name = "Postmeister Malown", subname = nil}
 MultiLanguageNpcData['de'][11144] = {name = "Orakelsphäre", subname = nil}
-MultiLanguageNpcData['de'][11145] = {name = "Myolor Zornesbeben", subname = nil}
+MultiLanguageNpcData['de'][11145] = {name = "Myolor Zornesbeben", subname = "Hüter der Großen Schmiede"}
 MultiLanguageNpcData['de'][11146] = {name = "Ironus Froststahl", subname = "Schmiedekunstlehrer"}
 MultiLanguageNpcData['de'][11147] = {name = "Grüner Roboschreiter", subname = nil}
 MultiLanguageNpcData['de'][11148] = {name = "Lila Roboschreiter", subname = nil}
@@ -10108,7 +10108,6 @@ MultiLanguageNpcData['de'][16509] = {name = "Argentumschlachtross", subname = ni
 MultiLanguageNpcData['de'][16510] = {name = "Argentumstreitross", subname = nil}
 MultiLanguageNpcData['de'][16511] = {name = "Argentumreittier", subname = nil}
 MultiLanguageNpcData['de'][16512] = {name = "Argentumtodesross", subname = nil}
-MultiLanguageNpcData['de'][16513] = {name = "Argentumtodesstreitross", subname = nil}
 MultiLanguageNpcData['de'][16514] = {name = "Botanikerin Taerix", subname = nil}
 MultiLanguageNpcData['de'][16516] = {name = "Unberechenbare Mutation", subname = nil}
 MultiLanguageNpcData['de'][16517] = {name = "Mutierter Wurzelpeitscher", subname = nil}
@@ -18872,7 +18871,7 @@ MultiLanguageNpcData['de'][26704] = {name = "Verteidiger der Drakkari", subname 
 MultiLanguageNpcData['de'][26705] = {name = "Jünger der Schneeebene", subname = nil}
 MultiLanguageNpcData['de'][26706] = {name = "Infizierter Grizzly", subname = nil}
 MultiLanguageNpcData['de'][26707] = {name = "Litoko Eistotem", subname = "Rüstungshändler"}
-MultiLanguageNpcData['de'][26708] = {name = "Bewohner von Silberwasser", subname = nil}
+MultiLanguageNpcData['de'][26708] = {name = "Erinnerter Bewohner von Silberwasser", subname = nil}
 MultiLanguageNpcData['de'][26709] = {name = "Pahu Frosthuf", subname = "Gastwirtin"}
 MultiLanguageNpcData['de'][26711] = {name = "Verletztes Mammut", subname = nil}
 MultiLanguageNpcData['de'][26712] = {name = "Crystal Channel Target", subname = nil}
@@ -22697,7 +22696,6 @@ MultiLanguageNpcData['de'][31198] = {name = "Koprus der Entweihte", subname = ni
 MultiLanguageNpcData['de'][31204] = {name = "Zwielichtei des Sartharion", subname = nil}
 MultiLanguageNpcData['de'][31205] = {name = "Auferstandener Soldat der Allianz", subname = nil}
 MultiLanguageNpcData['de'][31209] = {name = "Riding Argent Skytalon, Neutral (Taxi)", subname = nil}
-MultiLanguageNpcData['de'][31210] = {name = "Arthas (1)", subname = nil}
 MultiLanguageNpcData['de'][31214] = {name = "Zwielichtwelpe des Sartharion", subname = nil}
 MultiLanguageNpcData['de'][31216] = {name = "Spiegelbild", subname = nil}
 MultiLanguageNpcData['de'][31217] = {name = "Mal'Ganis (1)", subname = nil}

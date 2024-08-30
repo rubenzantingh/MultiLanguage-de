@@ -34337,7 +34337,7 @@ MultiLanguageNpcData['de'][105423] = {name = "Phönix", subname = nil}
 MultiLanguageNpcData['de'][105424] = {name = "Froijla Axtschwinger", subname = nil}
 MultiLanguageNpcData['de'][105425] = {name = "Hase", subname = nil}
 MultiLanguageNpcData['de'][105426] = {name = "Boost Kill Credit", subname = nil}
-MultiLanguageNpcData['de'][105427] = {name = "Totem des Himmelszorns", subname = nil}
+MultiLanguageNpcData['de'][105427] = {name = "Totem des Ingrimms", subname = nil}
 MultiLanguageNpcData['de'][105432] = {name = "Lafayla Machtklinge", subname = nil}
 MultiLanguageNpcData['de'][105433] = {name = "Stille Shale", subname = nil}
 MultiLanguageNpcData['de'][105436] = {name = "Voldgar", subname = nil}
