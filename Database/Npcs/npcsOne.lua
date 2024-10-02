@@ -1,4 +1,4 @@
-MultiLanguageNpcData['de'][1] = {name = "Waypoint (Only GM can see it)", subname = nil}
+MultiLanguageNpcData['de'][1] = {name = "Waypoint (Only GM can see it)", subname = "[Visual]"}
 MultiLanguageNpcData['de'][2] = {name = "Imp Minion", subname = nil}
 MultiLanguageNpcData['de'][3] = {name = "Fleischfresser", subname = nil}
 MultiLanguageNpcData['de'][4] = {name = "Tournament Supervisor", subname = nil}
@@ -10108,6 +10108,7 @@ MultiLanguageNpcData['de'][16509] = {name = "Argentumschlachtross", subname = ni
 MultiLanguageNpcData['de'][16510] = {name = "Argentumstreitross", subname = nil}
 MultiLanguageNpcData['de'][16511] = {name = "Argentumreittier", subname = nil}
 MultiLanguageNpcData['de'][16512] = {name = "Argentumtodesross", subname = nil}
+MultiLanguageNpcData['de'][16513] = {name = "Argentumtodesstreitross", subname = nil}
 MultiLanguageNpcData['de'][16514] = {name = "Botanikerin Taerix", subname = nil}
 MultiLanguageNpcData['de'][16516] = {name = "Unberechenbare Mutation", subname = nil}
 MultiLanguageNpcData['de'][16517] = {name = "Mutierter Wurzelpeitscher", subname = nil}
@@ -22696,6 +22697,7 @@ MultiLanguageNpcData['de'][31198] = {name = "Koprus der Entweihte", subname = ni
 MultiLanguageNpcData['de'][31204] = {name = "Zwielichtei des Sartharion", subname = nil}
 MultiLanguageNpcData['de'][31205] = {name = "Auferstandener Soldat der Allianz", subname = nil}
 MultiLanguageNpcData['de'][31209] = {name = "Riding Argent Skytalon, Neutral (Taxi)", subname = nil}
+MultiLanguageNpcData['de'][31210] = {name = "Arthas (1)", subname = nil}
 MultiLanguageNpcData['de'][31214] = {name = "Zwielichtwelpe des Sartharion", subname = nil}
 MultiLanguageNpcData['de'][31216] = {name = "Spiegelbild", subname = nil}
 MultiLanguageNpcData['de'][31217] = {name = "Mal'Ganis (1)", subname = nil}
@@ -28413,7 +28415,7 @@ MultiLanguageNpcData['de'][39384] = {name = "Giftiger Welpe", subname = nil}
 MultiLanguageNpcData['de'][39385] = {name = "Hiebkreischer", subname = nil}
 MultiLanguageNpcData['de'][39386] = {name = "Pilot Sprossmündung", subname = nil}
 MultiLanguageNpcData['de'][39387] = {name = "Totem des Erdelementars", subname = "Totem eines Schamanen des Irdenen Rings"}
-MultiLanguageNpcData['de'][39388] = {name = "Zwielichtjungtier", subname = nil}
+MultiLanguageNpcData['de'][39388] = {name = "Mutiertes Jungtier", subname = nil}
 MultiLanguageNpcData['de'][39389] = {name = "Großer Erdelementar", subname = nil}
 MultiLanguageNpcData['de'][39390] = {name = "Zwielichtdrache", subname = nil}
 MultiLanguageNpcData['de'][39391] = {name = "Zwielichtneophyt", subname = nil}
@@ -28935,7 +28937,7 @@ MultiLanguageNpcData['de'][40162] = {name = "Tiefenpirscher des Zin'jatar", subn
 MultiLanguageNpcData['de'][40163] = {name = "Intro Cave Defense Controller Bunny", subname = nil}
 MultiLanguageNpcData['de'][40164] = {name = "Feuerzyklon", subname = nil}
 MultiLanguageNpcData['de'][40165] = {name = "Flammender Hippogryph", subname = nil}
-MultiLanguageNpcData['de'][40166] = {name = "Versklavter Gronnrohling", subname = nil}
+MultiLanguageNpcData['de'][40166] = {name = "Geschmolzener Riese", subname = nil}
 MultiLanguageNpcData['de'][40167] = {name = "Zwielichtbetörer", subname = "Schattenhammer"}
 MultiLanguageNpcData['de'][40168] = {name = "Verderbte Dryade", subname = nil}
 MultiLanguageNpcData['de'][40169] = {name = "Tyrus Schwarzhorns Bindungen", subname = nil}
@@ -29090,7 +29092,7 @@ MultiLanguageNpcData['de'][40353] = {name = "Meatstick 01", subname = nil}
 MultiLanguageNpcData['de'][40354] = {name = "Zen'tabras Reiseform", subname = nil}
 MultiLanguageNpcData['de'][40355] = {name = "Invocation of Flame Stalker", subname = nil}
 MultiLanguageNpcData['de'][40356] = {name = "Ritualtänzer", subname = nil}
-MultiLanguageNpcData['de'][40357] = {name = "Beschworener lodernder Geist", subname = nil}
+MultiLanguageNpcData['de'][40357] = {name = "Herbeigerufener Schattenflammengeist", subname = nil}
 MultiLanguageNpcData['de'][40358] = {name = "Dyslix Silberraff", subname = "Flugmeister"}
 MultiLanguageNpcData['de'][40359] = {name = "Schildkrötenfleisch", subname = nil}
 MultiLanguageNpcData['de'][40360] = {name = "Bogenschützin der Mondfederfeste", subname = nil}
@@ -46921,7 +46923,6 @@ MultiLanguageNpcData['de'][63501] = {name = "Kik'tik", subname = "Flugmeister"}
 MultiLanguageNpcData['de'][63502] = {name = "Bernskorpion", subname = nil}
 MultiLanguageNpcData['de'][63503] = {name = "Kafa-berauschte Bergziege", subname = nil}
 MultiLanguageNpcData['de'][63504] = {name = "Rescued Kun-Lai Evacuee Credit", subname = nil}
-MultiLanguageNpcData['de'][63505] = {name = "Shomi", subname = "Die Tochter des Schmieds"}
 MultiLanguageNpcData['de'][63506] = {name = "Dorfbewohnerin von Zouchin", subname = nil}
 MultiLanguageNpcData['de'][63507] = {name = "Dorfbewohner von Zouchin", subname = nil}
 MultiLanguageNpcData['de'][63508] = {name = "Xuen", subname = nil}
