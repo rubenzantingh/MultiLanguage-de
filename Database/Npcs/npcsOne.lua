@@ -29751,7 +29751,7 @@ MultiLanguageNpcData['de'][41135] = {name = "\"Hahnentritt\" Johnson", subname =
 MultiLanguageNpcData['de'][41136] = {name = "Wegelagerer der Schreckensfelsoger", subname = nil}
 MultiLanguageNpcData['de'][41137] = {name = "Verirrter Dreschadon", subname = nil}
 MultiLanguageNpcData['de'][41138] = {name = "Verteidiger der Okril'lon", subname = nil}
-MultiLanguageNpcData['de'][41139] = {name = "Geistheilerin der Naz'jar", subname = nil}
+MultiLanguageNpcData['de'][41139] = {name = "Orakel von Naz'jar", subname = nil}
 MultiLanguageNpcData['de'][41140] = {name = "Burok", subname = "Flugmeister"}
 MultiLanguageNpcData['de'][41141] = {name = "Frostmane Magic Sphere", subname = nil}
 MultiLanguageNpcData['de'][41142] = {name = "Tierführer Marnlek", subname = "Fledermausführer"}
