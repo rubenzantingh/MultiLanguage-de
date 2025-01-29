@@ -1,3 +1,4 @@
+MultiLanguageSpellData['de'][464582] = {name = "Unzuverlässiger Goblinwellenschredder", additional_info = "5 Meter Reichweite\nSofort\n[q]Beschwört vorübergehend einen reitbaren Goblinwellenschredder oder gibt ihn wieder frei."}
 MultiLanguageSpellData['de'][464587] = {name = "Nachladen", additional_info = "100 Meter Reichweite\nWirken in 1 sek.\n[q]Lädt eine Distanzwaffe nach."}
 MultiLanguageSpellData['de'][464590] = {name = "Dunkelmondbeutel", additional_info = "Wirken in 0.1 sek.\n[q]Beim Umschreiben einer Dunkelmond-Karte von Khaz Algar besteht eine Chance von 0%, eine andere zu erschaffen.\n\n [ Anlegeeffekt erfordert Inschriftenkunde von Khaz Algar 1 ][ Anlegeeffekt erfordert Inschriftenkunde von Khaz Algar 1 ]"}
 MultiLanguageSpellData['de'][464593] = {name = "Packende Seide", additional_info = nil}
@@ -887,8 +888,10 @@ MultiLanguageSpellData['de'][468159] = {name = "Dunkles Wasser", additional_info
 MultiLanguageSpellData['de'][468162] = {name = "Leviathanaxt", additional_info = "Nahkampfreichweite\nWirken in 2 sek.\n[q]Der Zaubernde ermächtigt seine Waffe, sodass sie 6 sec lang Ziele bei Nahkampftreffern mit 'Dunkles Wasser' belegt."}
 MultiLanguageSpellData['de'][468179] = {name = "Tritt des aufziehenden Windes", additional_info = "Sofort\n[q]Erzeugt einen starken Windstoß, der Gegnern vor Euch in einem kegelförmigen Bereich von 25 Metern (359.5% of Attack power) Naturschaden zufügt, der gleichmäßig auf sie verteilt wird. Der Schaden erhöht sich um 6% für jedes getroffene Ziel, bis zu 30%.\n\n Gewährt 4 sec lang 'Rauschende Winde', wodurch die Heilung von 'Erneuernder Nebel' um 100% erhöht wird."}
 MultiLanguageSpellData['de'][468186] = {name = "Reven", additional_info = "Sofort\n[q]Mit Rechtsklick Reven beschwören oder wieder freigeben."}
+MultiLanguageSpellData['de'][468205] = {name = "Gezimmerte Himmelsschlange", additional_info = "Wirken in 1.5 sek.\n[q]Beschwört dieses Reittier oder gibt es wieder frei.\n[q]\"Ein lebendes, atmendes, fliegendes Kunstwerk.\"\nWoW-Shop"}
 MultiLanguageSpellData['de'][468219] = {name = "Jägerbeute", additional_info = "Sofort\n[q]'Tödlicher Schuss' trifft 1 zusätzliches Ziel und verursacht pro aktivem Begleiter 10% mehr Schaden. Bis zu 5-mal stapelbar."}
 MultiLanguageSpellData['de'][468226] = {name = "Blitzschlagleiter", additional_info = "Sofort\n[q]Es besteht die Chance, dass Ihr vom Blitz getroffen werdet, wodurch sich Eure Bewegungsgeschwindigkeit für 5 sec um 50% erhöht. Die Effektivität wird in Außenbereichen auf 100% erhöht.\n\n Bei Eurer 'Reinkarnation' ruft Ihr ein Gewitter herbei."}
+MultiLanguageSpellData['de'][468228] = {name = "Gezimmertes Himmelsschlängelchen", additional_info = "Sofort\n[q]Mit Rechtsklick dieses Haustier beschwören oder wieder freigeben."}
 MultiLanguageSpellData['de'][468231] = {name = "Versunkene Woge", additional_info = "100 Meter Reichweite\nSofort\n[q]Ein Vortex dreht sich um die Position des Zaubernden und belegt Gegnern, die damit in Berührung kommen, mit 'Dunkles Wasser'."}
 MultiLanguageSpellData['de'][468232] = {name = "Versunkene Woge", additional_info = "Wirken in 2 sek.\n[q]Ein Vortex dreht sich um die Position des Zaubernden und belegt Gegnern, die damit in Berührung kommen, mit 'Dunkles Wasser'."}
 MultiLanguageSpellData['de'][468246] = {name = "Übertakten", additional_info = "200 Meter Reichweite\nSofort\n[q]Wird ein Golem zerstört, verursachen die verbliebenen Golems bis zum Ende der Begegnung 25% mehr Schaden. Dieser Effekt ist stapelbar."}
@@ -1831,7 +1834,7 @@ MultiLanguageSpellData['de'][472651] = {name = "Feuerbrandaura", additional_info
 MultiLanguageSpellData['de'][472696] = {name = "Leerenriss", additional_info = "{Sofort} {18 sek. Abklingzeit}\n[q]- Neu positionieren\n- Erneut aktivierbar\n- Verlangsamt\n\n18 Sek. Abklingzeit\n Zerreißt die Leere und platziert ein Leerenmal. Zaubert 'Leerenriss' erneut, um sofort zum Mal zurückzukehren sowie Gegnern zu schaden und sie zu verlangsamen.\n\n Kann während des Zauberns eingesetzt werden."}
 MultiLanguageSpellData['de'][472701] = {name = "Helfer", additional_info = nil}
 MultiLanguageSpellData['de'][472704] = {name = "Realität zerreißen", additional_info = "{Sofort} {1 sek. Abklingzeit}\n[q]- Neu positionieren\n- Erneut aktivierbar\n- Verlangsamt\n\n18 Sek. Abklingzeit\n Zerreißt die Leere und platziert ein Leerenmal. Zaubert 'Leerenriss' erneut, um sofort zum Mal zurückzukehren sowie Gegnern zu schaden und sie zu verlangsamen.\n\n Kann während des Zauberns eingesetzt werden."}
-MultiLanguageSpellData['de'][472725] = {name = "Knallbonbon", additional_info = "Sofort\n[q]Find someone to help pull open the cracker. One participant will receive a surprise."}
+MultiLanguageSpellData['de'][472725] = {name = "Knallbonbon", additional_info = "Sofort\n[q]Findet jemanden, der Euch dabei hilft, das Knallbonbon zu öffnen. Einer der Teilnehmer erhält eine Überraschung."}
 MultiLanguageSpellData['de'][472726] = {name = "Leerenriss", additional_info = nil}
 MultiLanguageSpellData['de'][472730] = {name = "Interagieren", additional_info = nil}
 MultiLanguageSpellData['de'][472738] = {name = "Knallbonbon ziehen", additional_info = nil}
@@ -2047,7 +2050,7 @@ MultiLanguageSpellData['de'][474653] = {name = "Unterstützung: Brisenfeder rufe
 MultiLanguageSpellData['de'][474658] = {name = "Dunkles Mondlicht", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Das dunkle Mondlicht verringert das Zaubertempo um 50%."}
 MultiLanguageSpellData['de'][474672] = {name = "Notizen machen", additional_info = "Kanalisiert\n[q]Macht Euch Notizen, während Bargus und Angorla den gesprungenen Splitter reparieren."}
 MultiLanguageSpellData['de'][474679] = {name = "Felsbeleber", additional_info = "Sofort\n[q]Erweckt die in den ruhelosen Steinen und rastlosen Kieseln in der Nähe verbleibende Energie, sodass sie Euch für kurze Zeit im Kampf unterstützen."}
-MultiLanguageSpellData['de'][474688] = {name = "Grumpling freischalten", additional_info = "Wirken in 3 sek.\n[q]Allows you to summon Grumplings using the Box of Puntables toy.\n [ Already known ]"}
+MultiLanguageSpellData['de'][474688] = {name = "Grumpling freischalten", additional_info = "Wirken in 3 sek.\n[q]Ermöglicht Euch, mit dem Spielzeug 'Kiste des Ver-tretbaren' Grumplinge zu beschwören.\n [ Bereits bekannt ]"}
 MultiLanguageSpellData['de'][474690] = {name = "Grumpling beschwören", additional_info = "Sofort\n[q]Beschwört Grumplinge."}
 MultiLanguageSpellData['de'][474691] = {name = "Grumplinge beschwören", additional_info = "Kanalisiert (Wirken in 5 sek.)\n[q]Beschwört eine wütende Ente, die den Zaubernden im Kampf unterstützt."}
 MultiLanguageSpellData['de'][474698] = {name = "Umschmieden", additional_info = "Kanalisiert (Wirken in 0 sek.)\n[q]Nutzt die Energien der Schmiede, um das gesprungene Äußere des Splitters wiederherzustellen."}
@@ -2197,6 +2200,7 @@ MultiLanguageSpellData['de'][1216089] = {name = "Einholen", additional_info = ni
 MultiLanguageSpellData['de'][1216189] = {name = "Öffnen", additional_info = nil}
 MultiLanguageSpellData['de'][1216229] = {name = "Abreise von Tol Dagor", additional_info = nil}
 MultiLanguageSpellData['de'][1216418] = {name = "Experimenteller Flugsack", additional_info = "100 Meter Reichweite\nSofort\n[q]Stürzt auf den Zielort herab."}
+MultiLanguageSpellData['de'][1216542] = {name = "Flammender Feuerfalke des Königs", additional_info = "Wirken in 1.5 sek.\n[q]Beschwört einen reitbaren flammenden Feuerfalken des Königs oder gibt ihn wieder frei. Das ist ein Flugreittier.\n[q]\"Nur die leidenschaftlichsten Seelen und die feurigsten Herzen können den flammenden Feuerfalken des Königs als Reittier beanspruchen.\"\nPromotion"}
 MultiLanguageSpellData['de'][1216696] = {name = "Portal: Gala der Geschenke...?", additional_info = "Sofort\n[q]Teleportiert den Zaubernden nach Sturmwind."}
 MultiLanguageSpellData['de'][1216697] = {name = "Portal: Gala der Geschenke...?", additional_info = "Sofort\n[q]Teleportiert den Zaubernden zur Gala der Geschenke."}
 MultiLanguageSpellData['de'][1216746] = {name = "Überraschung aus Landros Beutekiste", additional_info = nil}
@@ -2221,3 +2225,9 @@ MultiLanguageSpellData['de'][1218030] = {name = "Schließkassette der Deckhand",
 MultiLanguageSpellData['de'][1218099] = {name = "Blocker", additional_info = nil}
 MultiLanguageSpellData['de'][1218100] = {name = "Blocker", additional_info = nil}
 MultiLanguageSpellData['de'][1218101] = {name = "Blocker", additional_info = nil}
+MultiLanguageSpellData['de'][1218374] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['de'][1218980] = {name = "Passagier 1 auswerfen", additional_info = nil}
+MultiLanguageSpellData['de'][1218981] = {name = "Schildansturm", additional_info = "10 - 40 Meter Reichweite\n{Sofort} {5 sek. Abklingzeit}\n[q]Verringert den erlittenen Schaden um 240%.\n\n Erhöht die Bewegungsgeschwindigkeit until canceled lang um 240% und stößt von Euch niedergerittene Gegner zurück."}
+MultiLanguageSpellData['de'][1220498] = {name = "Defekten Teleporter nutzen", additional_info = "Wirken in 5 sek.\n[q]Teleportiert Euch exakt dorthin, wo Ihr hinwollt... sofern Ihr nicht allzu wählerisch seid."}
+MultiLanguageSpellData['de'][1221338] = {name = "Fußball schießen", additional_info = "40 Meter Reichweite\n{Sofort} {5 sek. Abklingzeit}\n[q]Schießt den Ball einem freundlich gesinnten Spieler zu. Wenn möglich, spielt er ihn automatisch zurück."}
+MultiLanguageSpellData['de'][1221476] = {name = "Tracking Quest", additional_info = nil}
