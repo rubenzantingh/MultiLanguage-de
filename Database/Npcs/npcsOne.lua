@@ -29723,6 +29723,7 @@ MultiLanguageNpcData['de'][41106] = {name = "Weitenwandler der Kvaldir", subname
 MultiLanguageNpcData['de'][41107] = {name = "Tiefenwandler der Kvaldir", subname = nil}
 MultiLanguageNpcData['de'][41108] = {name = "Brandschatzer der Kvaldir", subname = nil}
 MultiLanguageNpcData['de'][41109] = {name = "Salzsteinstarrer", subname = nil}
+MultiLanguageNpcData['de'][41110] = {name = "Höchster Botschafter Flammenschlag", subname = nil}
 MultiLanguageNpcData['de'][41111] = {name = "Salzwüstengeier", subname = nil}
 MultiLanguageNpcData['de'][41112] = {name = "Marion Wurmschwinge", subname = nil}
 MultiLanguageNpcData['de'][41113] = {name = "Spiegelpanzerbohrer", subname = nil}

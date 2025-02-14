@@ -1694,7 +1694,7 @@ MultiLanguageSpellData['de'][471683] = {name = "Himmelsbeschuss", additional_inf
 MultiLanguageSpellData['de'][471696] = {name = "Hakenkralle", additional_info = "Wirken in 1.5 sek.\n[q]Beschwört dieses Reittier oder gibt es wieder frei.\n\n Bei diesem Reittier kann 'Mitreiten' verwendet werden.\n[q]\"Hakenkralle segelte einst mit den Blutsegelbukanieren und später auch mit den Schwarzmeerräubern, verließ sie jedoch, um zu sehen, welche Beute sich abseits der hohen See finden lässt.\"\nBesonderes Ereignis:\nPlunderstorm"}
 MultiLanguageSpellData['de'][471697] = {name = "Zauber erlernen: Hakenkralle", additional_info = nil}
 MultiLanguageSpellData['de'][471706] = {name = "Sturmruf", additional_info = "30 Meter Reichweite\nWirken in 5 sek.\n[q]Der Zaubernde ruft einen mächtigen Blitzschlag herab, der Gegner innerhalb von 30 Metern 100 Naturschaden zufügt."}
-MultiLanguageSpellData['de'][471717] = {name = "Himmelsbeschuss", additional_info = "{Kanalisiert (Wirken in} {2 sek.) 18 sek. Abklingzeit}\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n18 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
+MultiLanguageSpellData['de'][471717] = {name = "Himmelsbeschuss", additional_info = "Kanalisiert (Wirken in 2 sek.)\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n18 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
 MultiLanguageSpellData['de'][471722] = {name = "Teleportieren", additional_info = nil}
 MultiLanguageSpellData['de'][471726] = {name = "Teleportieren", additional_info = nil}
 MultiLanguageSpellData['de'][471727] = {name = "Teleportieren", additional_info = nil}
@@ -1784,7 +1784,7 @@ MultiLanguageSpellData['de'][472337] = {name = "Kugel des Nachtflutwellenbeugers
 MultiLanguageSpellData['de'][472353] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472360] = {name = "Laterne des verlorenen Vrykul", additional_info = "Sofort\n[q]Der Einsatz Eurer zentralen Klassenfähigkeit mit Abklingzeit erfüllt Euch mit der Wildheit von Vrykulseelen und erhöht Euren kritischen Trefferwert 8 sec lang um 171 .\n\n Abhängig davon, wann Ihr zuletzt erfüllt wurdet, hält der Effekt bis zu 40 Sek. länger an."}
 MultiLanguageSpellData['de'][472370] = {name = "Felsbrockenexplosion", additional_info = nil}
-MultiLanguageSpellData['de'][472390] = {name = "Himmelsbeschuss", additional_info = "{Kanalisiert (Wirken in} {2 sek.) 16 sek. Abklingzeit}\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n16 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
+MultiLanguageSpellData['de'][472390] = {name = "Himmelsbeschuss", additional_info = "Kanalisiert (Wirken in 2 sek.)\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n16 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
 MultiLanguageSpellData['de'][472391] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472392] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472393] = {name = "Himmelsbeschuss", additional_info = nil}
@@ -1797,8 +1797,8 @@ MultiLanguageSpellData['de'][472399] = {name = "Himmelsbeschuss", additional_inf
 MultiLanguageSpellData['de'][472400] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472401] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472402] = {name = "Himmelsbeschuss", additional_info = nil}
-MultiLanguageSpellData['de'][472403] = {name = "Himmelsbeschuss", additional_info = "{Kanalisiert (Wirken in} {2 sek.) 14 sek. Abklingzeit}\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n14 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
-MultiLanguageSpellData['de'][472406] = {name = "Himmelsbeschuss", additional_info = "{Kanalisiert (Wirken in} {2 sek.) 12 sek. Abklingzeit}\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n12 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
+MultiLanguageSpellData['de'][472403] = {name = "Himmelsbeschuss", additional_info = "Kanalisiert (Wirken in 2 sek.)\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n14 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
+MultiLanguageSpellData['de'][472406] = {name = "Himmelsbeschuss", additional_info = "Kanalisiert (Wirken in 2 sek.)\n[q]- Linienangriff\n- Zum Aufladen halten\n- Extreme Reichweite\n\n12 Sek. Abklingzeit\n Ruft eine Salve Mondstrahlen herab, die Gegnern Schaden zufügen.\n\n Gedrückt halten, um die Reichweite zu erhöhen."}
 MultiLanguageSpellData['de'][472407] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472408] = {name = "Himmelsbeschuss", additional_info = nil}
 MultiLanguageSpellData['de'][472409] = {name = "Himmelsbeschuss", additional_info = nil}
@@ -2231,3 +2231,7 @@ MultiLanguageSpellData['de'][1218981] = {name = "Schildansturm", additional_info
 MultiLanguageSpellData['de'][1220498] = {name = "Defekten Teleporter nutzen", additional_info = "Wirken in 5 sek.\n[q]Teleportiert Euch exakt dorthin, wo Ihr hinwollt... sofern Ihr nicht allzu wählerisch seid."}
 MultiLanguageSpellData['de'][1221338] = {name = "Fußball schießen", additional_info = "40 Meter Reichweite\n{Sofort} {5 sek. Abklingzeit}\n[q]Schießt den Ball einem freundlich gesinnten Spieler zu. Wenn möglich, spielt er ihn automatisch zurück."}
 MultiLanguageSpellData['de'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['de'][1223890] = {name = "Aura des Zeloten", additional_info = nil}
+MultiLanguageSpellData['de'][1223891] = {name = "Aura des Zeloten", additional_info = nil}
+MultiLanguageSpellData['de'][1223893] = {name = "Aura des Zeloten", additional_info = nil}
+MultiLanguageSpellData['de'][1223894] = {name = "Aura des Zeloten", additional_info = nil}
