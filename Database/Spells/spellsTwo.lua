@@ -758,7 +758,7 @@ MultiLanguageSpellData['de'][78269] = {name = "Quest Credit: That's Why They Cal
 MultiLanguageSpellData['de'][78270] = {name = "Summon Kvaldir Reckoner", additional_info = nil}
 MultiLanguageSpellData['de'][78271] = {name = "Phase Shift 1 Kelp Forest and Holding Pens", additional_info = nil}
 MultiLanguageSpellData['de'][78272] = {name = "Prasselnde Flamme", additional_info = nil}
-MultiLanguageSpellData['de'][78273] = {name = "Waffe der Flammenzunge", additional_info = "6% von Grundmana\nSofort\nBenötigt Nahkampfwaffe\n[q]Erfüllt die Waffe des Schamanen mit Feuer und erhöht so den gesamten Zauberschaden um 7. Jeder Treffer verursacht zusätzlich $/78275m1 bis 1 Feuerschaden. Hält 30 Min. lang an."}
+MultiLanguageSpellData['de'][78273] = {name = "Waffe der Flammenzunge", additional_info = "6% von Grundmana\nSofort\nBenötigt Nahkampfwaffe\n[q]Erfüllt die Waffe des Schamanen mit Feuer und erhöht so den gesamten Zauberschaden um 7. Jeder Treffer verursacht zusätzlich /78275m1 bis 1 Feuerschaden. Hält 30 Min. lang an."}
 MultiLanguageSpellData['de'][78274] = {name = "Wirbelsturm", additional_info = nil}
 MultiLanguageSpellData['de'][78275] = {name = "Creature - Flametongue Weapon Proc", additional_info = nil}
 MultiLanguageSpellData['de'][78276] = {name = "Hundetaucherhelm", additional_info = nil}
@@ -18342,7 +18342,7 @@ MultiLanguageSpellData['de'][105521] = {name = "Endlose Raserei", additional_inf
 MultiLanguageSpellData['de'][105523] = {name = "Magiestoß-Lichtbogen", additional_info = "300 Meter Reichweite\nSofort\n[q]Die in Mannoroths Fleisch eingebettete Klinge resoniert mit elfischen Magien und fügt ihm 1000000 Schaden zu."}
 MultiLanguageSpellData['de'][105524] = {name = "Magiestoß-Lichtbogen", additional_info = "300 Meter Reichweite\nSofort\n[q]Die in Mannoroths Fleisch eingebettete Klinge resoniert mit elfischen Magien und fügt ihm 0 Schaden zu."}
 MultiLanguageSpellData['de'][105526] = {name = "Teuflisches Tempo", additional_info = "Sofort\n[q]Erhöht die Angriffskraft um 100%."}
-MultiLanguageSpellData['de'][105527] = {name = "Kobaltblut der Alten Götter", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Manaleere'."}
+MultiLanguageSpellData['de'][105527] = {name = "Blaue Färbung", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Manaleere'."}
 MultiLanguageSpellData['de'][105528] = {name = "Knockback Self 5", additional_info = nil}
 MultiLanguageSpellData['de'][105530] = {name = "Manaleere", additional_info = "Sofort\n[q]Absorbiert im Verlauf von 1 Sek. 100% Mana."}
 MultiLanguageSpellData['de'][105531] = {name = "Portal Pull", additional_info = nil}
@@ -18497,7 +18497,7 @@ MultiLanguageSpellData['de'][105846] = {name = "Kernschmelze", additional_info =
 MultiLanguageSpellData['de'][105847] = {name = "Rüstungsbruch versiegeln", additional_info = "Unbegrenzte Reichweite\nWirken in 23 sek.\n[q]Wenn eine Rüstungsplatte weggebogen wurde, ziehen die brennenden Sehnen sie schnell wieder zurück, um die Sehnen vor weiterem Schaden zu schützen und zu verhindern, dass die Platte abgesprengt werden kann."}
 MultiLanguageSpellData['de'][105848] = {name = "Rüstungsbruch versiegeln", additional_info = "Unbegrenzte Reichweite\nWirken in 23 sek.\n[q]Wenn eine Rüstungsplatte weggebogen wurde, ziehen die brennenden Sehnen sie schnell wieder zurück, um die Sehnen vor weiterem Schaden zu schützen und zu verhindern, dass die Platte abgesprengt werden kann."}
 MultiLanguageSpellData['de'][105849] = {name = "Item - Death Knight T12 Blood 2P Bonus", additional_info = "[q]Nach der Aktivierung von 'Schurkenhandel' werden die Energiekosten Eurer Fähigkeiten 6 sec lang um 20% verringert."}
-MultiLanguageSpellData['de'][105850] = {name = "Kobaltblut der Alten Götter", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Manaleere'."}
+MultiLanguageSpellData['de'][105850] = {name = "Lila Färbung", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Manaleere'."}
 MultiLanguageSpellData['de'][105853] = {name = "Blutsturz", additional_info = nil}
 MultiLanguageSpellData['de'][105855] = {name = "Wirbelnde Klingen", additional_info = nil}
 MultiLanguageSpellData['de'][105856] = {name = "Wirbelnde Klingen", additional_info = "Sofort\n[q]Verursacht pro Sekunde 11875 to 13125 körperlichen Schaden. Je weiter das Ziel von Alizabal entfernt ist, desto mehr verringert sich der Schaden.\n\n Alle eintreffenden Angriffe werden abgewehrt."}
@@ -19702,7 +19702,7 @@ MultiLanguageSpellData['de'][126583] = {name = "Item - Proc Strength", additiona
 MultiLanguageSpellData['de'][126659] = {name = "Flinke Zungen", additional_info = "Sofort\n[q]Erhöht das Tempo 20 sec lang um 963."}
 MultiLanguageSpellData['de'][126660] = {name = "Item - Spell Hits Proc Haste", additional_info = "[q]Jedes Mal, wenn Eure Schaden verursachenden Zauber treffen, besteht eine Chance, dass Euer Tempo 20 sec lang um 963 erhöht wird (Chance von 15%, 115 Sek. Abklingzeit).\n(Procchance: 15%, 1.917Min. Abklingzeit)"}
 MultiLanguageSpellData['de'][133630] = {name = "Ausgezeichnete Kenntnis", additional_info = "40 Meter Reichweite\nSofort\n[q]Erhöht die Meisterschaftswertung 20 sec lang um 2573."}
-MultiLanguageSpellData['de'][133631] = {name = "Item - Attacks Proc Mastery", additional_info = "[q]Wenn Eure Angriffe treffen, besteht eine Chance, dass Eure Meisterschaftswertung until cancelled lang um 0 erhöht wird.\n(Procchance: 15%, 1.083Min. Abklingzeit)"}
+MultiLanguageSpellData['de'][133631] = {name = "Item - Attacks Proc Mastery", additional_info = "[q]Wenn Eure Angriffe treffen, besteht eine Chance, dass Ihr 20 sec lang 2573 Meisterschaft erhaltet.\n(Procchance: 15%, 1.083Min. Abklingzeit)"}
 MultiLanguageSpellData['de'][158263] = {name = "Feigling", additional_info = nil}
 MultiLanguageSpellData['de'][160597] = {name = "Erbstück erschaffen", additional_info = nil}
 MultiLanguageSpellData['de'][171555] = {name = "Schlachtzugsmarkierung 6", additional_info = "Sofort"}
@@ -20525,37 +20525,65 @@ MultiLanguageSpellData['de'][1224268] = {name = "[q3]Blutige Schuppenbrustplatte
 MultiLanguageSpellData['de'][1224269] = {name = "[q3]Blutiger Schuppenhelm", additional_info = "Wirken in 3 sek.\nReagenzien:\nSchweres primitives Leder (8), Geschwärzte Drachenschuppe (10), Flüchtiges Leben (10)"}
 MultiLanguageSpellData['de'][1224270] = {name = "[q3]Blutige Drachenschuppenbeine", additional_info = "Wirken in 3 sek.\nReagenzien:\nSchweres primitives Leder (8), Geschwärzte Drachenschuppe (10), Flüchtiges Leben (10)"}
 MultiLanguageSpellData['de'][1224271] = {name = "[q3]Blutige Drachenschuppenbrustplatte", additional_info = "Wirken in 3 sek.\nReagenzien:\nSchweres primitives Leder (8), Geschwärzte Drachenschuppe (10), Flüchtiges Leben (10)"}
-MultiLanguageSpellData['de'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "Sofort\n[q]Dragon Soul is disabled on the PTR at this time."}
-MultiLanguageSpellData['de'][1224920] = {name = "Protocol Twilight", additional_info = "Unbegrenzte Reichweite\nSofort 1 min Abklingzeit"}
-MultiLanguageSpellData['de'][1224921] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['de'][1224922] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['de'][1224923] = {name = "Twilight's Madness", additional_info = "Sofort\n(Procchance: 35%, 30s Abklingzeit)"}
-MultiLanguageSpellData['de'][1224924] = {name = "Summon Defender", additional_info = "Sofort\n[q]Summon a Wyrmrest Defender."}
-MultiLanguageSpellData['de'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
-MultiLanguageSpellData['de'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
-MultiLanguageSpellData['de'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
-MultiLanguageSpellData['de'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
-MultiLanguageSpellData['de'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['de'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['de'][1224931] = {name = "Verdant Surge", additional_info = nil}
-MultiLanguageSpellData['de'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
-MultiLanguageSpellData['de'][1224933] = {name = "Verdant Restoration", additional_info = nil}
-MultiLanguageSpellData['de'][1224934] = {name = "Glühendes Blut des Shu'ma", additional_info = "Sofort\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['de'][1224545] = {name = "Teleport zur Drachenseele deaktiviert", additional_info = "Sofort\n[q]Die Drachenseele ist auf dem PTR derzeit nicht aktiv."}
+MultiLanguageSpellData['de'][1224920] = {name = "Protokoll Zwielicht", additional_info = "Unbegrenzte Reichweite\nSofort 1 min Abklingzeit"}
+MultiLanguageSpellData['de'][1224921] = {name = "Protokoll Zwielicht", additional_info = nil}
+MultiLanguageSpellData['de'][1224922] = {name = "Protokoll Zwielicht", additional_info = nil}
+MultiLanguageSpellData['de'][1224923] = {name = "Wahnsinn des Zwielichts", additional_info = "Sofort\n(Procchance: 35%, 1.083Min. Abklingzeit)"}
+MultiLanguageSpellData['de'][1224924] = {name = "Verteidiger beschwören", additional_info = "Sofort\n[q]Beschwört einen Verteidiger des Wyrmruhtempels."}
+MultiLanguageSpellData['de'][1224925] = {name = "Gabe des roten Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1224926] = {name = "Gabe des roten Drachenschwarms", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
+MultiLanguageSpellData['de'][1224927] = {name = "Gabe des bronzenen Drachenschwarms", additional_info = "Sofort\n(1s Abklingzeit)"}
+MultiLanguageSpellData['de'][1224928] = {name = "Gabe des bronzenen Drachenschwarms", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
+MultiLanguageSpellData['de'][1224929] = {name = "Gabe des blauen Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1224930] = {name = "Gabe des blauen Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1224931] = {name = "Tiefgrüne Woge", additional_info = nil}
+MultiLanguageSpellData['de'][1224932] = {name = "Gabe des grünen Drachenschwarms", additional_info = "Unbegrenzte Reichweite\nSofort\n(1s Abklingzeit)"}
+MultiLanguageSpellData['de'][1224933] = {name = "Tiefgrüne Wiederherstellung", additional_info = nil}
+MultiLanguageSpellData['de'][1224934] = {name = "Glühendes Blut des Shu'ma", additional_info = "Sofort\n[q]Mit dem glühenden Blut der Alten Götter erfüllt.\n Angriffstempo um 25% erhöht."}
 MultiLanguageSpellData['de'][1224935] = {name = "Manaleere", additional_info = "30 Meter Reichweite\nSofort\n[q]Fügt nahen Gegnern 0 Schattenschaden zu."}
 MultiLanguageSpellData['de'][1224936] = {name = "Sengendes Blut", additional_info = "30 Meter Reichweite\n{Sofort} {3 sek. Abklingzeit}\n[q]Bringt das Blut zufälliger Gegner, die sich weit entfernt befinden, zum Kochen. Mit fortschreitender Distanz zum Zaubernden erleidet das Ziel mehr Schaden."}
 MultiLanguageSpellData['de'][1224937] = {name = "Verderbte Diener", additional_info = nil}
-MultiLanguageSpellData['de'][1224938] = {name = "Verderbte Diener", additional_info = "200 Meter Reichweite\nSofort\n[q]Schleudert einen Schwall kochender Magma auf einen Feind, verursacht bei ihm 29250 to 30750 Schaden und reißt den Boden auf."}
-MultiLanguageSpellData['de'][1224939] = {name = "Magensäure", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt einem feindlichen Ziel 30625 to 39375 Naturschaden zu."}
-MultiLanguageSpellData['de'][1224940] = {name = "Magensäure", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt einem feindlichen Ziel 67275 to 70725 Naturschaden zu."}
-MultiLanguageSpellData['de'][1224941] = {name = "Magensäure", additional_info = "Sofort"}
-MultiLanguageSpellData['de'][1224942] = {name = "Magensäure", additional_info = nil}
-MultiLanguageSpellData['de'][1224943] = {name = "Magensäure", additional_info = "200 Meter Reichweite\nSofort\n[q]Verursacht alle 5 Sek. 0 Naturschaden."}
-MultiLanguageSpellData['de'][1224944] = {name = "Tiefe Verderbnis", additional_info = "150 Meter Reichweite\nSofort\n[q]Fügt allen Verbündeten in der Nähe 46250 to 53750 Schaden zu."}
-MultiLanguageSpellData['de'][1224945] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Durch das Erhalten von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
-MultiLanguageSpellData['de'][1224946] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Durch das Erhalten von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
+MultiLanguageSpellData['de'][1224938] = {name = "Verderbte Diener", additional_info = "200 Meter Reichweite\nSofort\n[q]Schleudert einen Schwall kochender Magma auf einen Gegner, fügt ihm 29250 to 30750 Schaden zu und reißt den Boden auf."}
+MultiLanguageSpellData['de'][1224939] = {name = "Verdauungssäure", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt einem gegnerischen Ziel 15312 to 19688 Naturschaden zu."}
+MultiLanguageSpellData['de'][1224940] = {name = "Verdauungssäure", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt einem gegnerischen Ziel 67275 to 70725 Naturschaden zu."}
+MultiLanguageSpellData['de'][1224941] = {name = "Verdauungssäure", additional_info = "Sofort"}
+MultiLanguageSpellData['de'][1224942] = {name = "Verdauungssäure", additional_info = nil}
+MultiLanguageSpellData['de'][1224943] = {name = "Verdauungssäure", additional_info = "200 Meter Reichweite\nSofort\n[q]Verursacht alle 5 Sek. 0 Naturschaden."}
+MultiLanguageSpellData['de'][1224944] = {name = "Tiefe Verderbnis", additional_info = "150 Meter Reichweite\nSofort\n[q]Fügt Verbündeten in der Nähe 46250 to 53750 Schaden zu."}
+MultiLanguageSpellData['de'][1224945] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Bei Erhalt von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
+MultiLanguageSpellData['de'][1224946] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Bei Erhalt von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
 MultiLanguageSpellData['de'][1224947] = {name = "Tiefe Verderbnis", additional_info = nil}
 MultiLanguageSpellData['de'][1224948] = {name = "Tiefe Verderbnis", additional_info = nil}
 MultiLanguageSpellData['de'][1224949] = {name = "Tiefe Verderbnis", additional_info = nil}
-MultiLanguageSpellData['de'][1224950] = {name = "Tiefe Verderbnis", additional_info = "150 Meter Reichweite\nSofort\n[q]Fügt allen Verbündeten in der Nähe 89725 to 104275 Schaden zu."}
-MultiLanguageSpellData['de'][1224951] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Durch das Erhalten von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
-MultiLanguageSpellData['de'][1224952] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Durch das Erhalten von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
+MultiLanguageSpellData['de'][1224950] = {name = "Tiefe Verderbnis", additional_info = "150 Meter Reichweite\nSofort\n[q]Fügt Verbündeten in der Nähe 23125 to 26875 Schaden zu."}
+MultiLanguageSpellData['de'][1224951] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Bei Erhalt von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
+MultiLanguageSpellData['de'][1224952] = {name = "Tiefe Verderbnis", additional_info = "100 Meter Reichweite\nSofort\n[q]Bei Erhalt von Heilung oder Absorptionseffekten wird bei 5 Stapeln eine Explosion ausgelöst."}
+MultiLanguageSpellData['de'][1225871] = {name = "Gabe des bronzenen Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1225923] = {name = "Gabe des blauen Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1226145] = {name = "Schattenhafte Kugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226146] = {name = "Blut gewähren", additional_info = "100 Meter Reichweite\nSofort\n[q]Überträgt die Macht der Alten Götter, die in den Blutkugeln gespeichert ist."}
+MultiLanguageSpellData['de'][1226147] = {name = "Purpurkugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226148] = {name = "Dunkle Kugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226149] = {name = "Säurekugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226150] = {name = "Kobaltkugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226151] = {name = "Glühende Kugel beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226265] = {name = "Kugeln beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226387] = {name = "Purpurnes Blut des Shu'ma", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Sengendes Blut'."}
+MultiLanguageSpellData['de'][1226408] = {name = "Schattenhaftes Blut des Shu'ma", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Tiefe Verderbnis'."}
+MultiLanguageSpellData['de'][1226416] = {name = "Kobaltblut des Shu'ma", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Manaleere'."}
+MultiLanguageSpellData['de'][1226422] = {name = "Ätzendes Blut des Shu'ma", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Verdauungssäure'."}
+MultiLanguageSpellData['de'][1226453] = {name = "Schwarzes Blut des Shu'ma", additional_info = "Sofort\n[q]Gewährt die Fähigkeit 'Verderbte Diener'."}
+MultiLanguageSpellData['de'][1226484] = {name = "Unbegrenzte Reichweite", additional_info = nil}
+MultiLanguageSpellData['de'][1226485] = {name = "Hordenverteidiger des Wyrmruhtempels beschwören", additional_info = nil}
+MultiLanguageSpellData['de'][1226486] = {name = "Psychisches Schlitzen", additional_info = "20 Meter Reichweite\n{Wirken in} {0.6 sek. 5 sek. Abklingzeit}\n[q]Kanalisiert eine Welle psychischer Energie auf einen Gegner, die 55770 to 58630 Schattenschaden verursacht."}
+MultiLanguageSpellData['de'][1227043] = {name = "Sturmgrimms Macht", additional_info = "Sofort\n[q]Verursachter Schaden verringert.\n Maximale Gesundheit verringert."}
+MultiLanguageSpellData['de'][1227044] = {name = "Sturmgrimms Macht", additional_info = nil}
+MultiLanguageSpellData['de'][1227317] = {name = "Signet of the Wyrmrest Accord - Remove Item", additional_info = nil}
+MultiLanguageSpellData['de'][1227448] = {name = "250 Gerechtigkeit gewähren", additional_info = "Sofort\n[q]Gewährt Euch selbst 250 Gerechtigkeitspunkte."}
+MultiLanguageSpellData['de'][1227450] = {name = "Shadowed Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['de'][1227589] = {name = "Cobalt Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['de'][1227594] = {name = "Glowing Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['de'][1227595] = {name = "Crimson Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['de'][1227598] = {name = "Dark Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['de'][1227599] = {name = "Acidic Globule - Spawn Spell", additional_info = nil}
