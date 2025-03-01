@@ -291,6 +291,7 @@ MultiLanguageSpellData['de'][465448] = {name = "Irdenen beschwören", additional
 MultiLanguageSpellData['de'][465449] = {name = "Irdenen beschwören", additional_info = nil}
 MultiLanguageSpellData['de'][465464] = {name = "Bogenhieb", additional_info = "Nahkampfreichweite\n{Wirken in} {2 sek. 5 sek. Abklingzeit}\n[q]Fügt Gegnern in einem kegelförmigen Bereich vor dem Zaubernden Schaden in Höhe von 200% des normalen Nahkampfschadens zu."}
 MultiLanguageSpellData['de'][465469] = {name = "Graben", additional_info = nil}
+MultiLanguageSpellData['de'][465518] = {name = "Arsenal: Goldene Wappen des Königreichs", additional_info = "Sofort\n[q]Sammelt die Vorlagen der goldenen Wappen des Königreichs."}
 MultiLanguageSpellData['de'][465521] = {name = "Schattengeschoss", additional_info = "100 Meter Reichweite\nSofort\n[q]Richtet einen Blitz langsamer Schattenenergie auf Euer Ziel aus, der allen Gegnern innerhalb von 8 Metern (68.7926% of Spell power) Schattenschaden zufügt.\n\nErzeugt 6 Wahnsinn.\n\n Dieser Effekt wird auf einen ausgewählten Ort gewirkt."}
 MultiLanguageSpellData['de'][465522] = {name = "Schattengeschoss", additional_info = "100 Meter Reichweite\nSofort\n[q]Richtet einen Blitz langsamer Schattenenergie auf Euer Ziel aus, der allen Gegnern innerhalb von 8 Metern (68.7926% of Spell power) Schattenschaden zufügt.\n\nErzeugt 6 Wahnsinn.\n\n Dieser Effekt wird auf einen ausgewählten Ort gewirkt."}
 MultiLanguageSpellData['de'][465529] = {name = "Schädlicher Regen", additional_info = "40 Meter Reichweite\n{Wirken in} {2 sek. 12 sek. Abklingzeit}\n[q]Verspritzt eine Salve toxischen Wassers und verursacht 48 Naturschaden im Effektbereich."}
@@ -2235,3 +2236,5 @@ MultiLanguageSpellData['de'][1223890] = {name = "Aura des Zeloten", additional_i
 MultiLanguageSpellData['de'][1223891] = {name = "Aura des Zeloten", additional_info = nil}
 MultiLanguageSpellData['de'][1223893] = {name = "Aura des Zeloten", additional_info = nil}
 MultiLanguageSpellData['de'][1223894] = {name = "Aura des Zeloten", additional_info = nil}
+MultiLanguageSpellData['de'][1227060] = {name = "Erfrischung", additional_info = "40 Meter Reichweite\nSofort\n[q]Stellt im Verlauf von 15 sec ( 630000 / 5 * 15) Gesundheit wieder her. Wenn Ihr mindestens 15 Sek. mit Essen verbringt, spürt Ihr die Liebe und für 2 hrs wird Eure Moral gestärkt."}
+MultiLanguageSpellData['de'][1227061] = {name = "Crunching", additional_info = "Sofort\n[q]Stellt im Verlauf von 15 sec ( 630000 / 5 * 15) Gesundheit wieder her."}
