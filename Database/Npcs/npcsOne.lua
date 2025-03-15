@@ -12843,6 +12843,7 @@ MultiLanguageNpcData['de'][19484] = {name = "Netherstorm Repair Target", subname
 MultiLanguageNpcData['de'][19485] = {name = "Magister Falris", subname = nil}
 MultiLanguageNpcData['de'][19486] = {name = "Chemiker der Sonnensucher", subname = nil}
 MultiLanguageNpcData['de'][19487] = {name = "Reitdrachenfalke", subname = nil}
+MultiLanguageNpcData['de'][19488] = {name = "Hüter Dierwert", subname = "Bewahrer von Kirin'Var"}
 MultiLanguageNpcData['de'][19489] = {name = "Zaubererleutnant Morran", subname = nil}
 MultiLanguageNpcData['de'][19490] = {name = "Ausbilderin für fliegende Reittiere in der Welt", subname = "Pferdereitlehrer"}
 MultiLanguageNpcData['de'][19491] = {name = "Welt Verkäufer für fliegende Reittiere der Allianz", subname = "Stallmeisterin"}

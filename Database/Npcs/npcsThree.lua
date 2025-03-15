@@ -12644,6 +12644,7 @@ MultiLanguageNpcData['de'][135687] = {name = "Erregerbombe", subname = nil}
 MultiLanguageNpcData['de'][135688] = {name = "Regloser Greifer", subname = nil}
 MultiLanguageNpcData['de'][135689] = {name = "Regloser Greifer", subname = nil}
 MultiLanguageNpcData['de'][135690] = {name = "Schreckensadmiralin Segelriss", subname = nil}
+MultiLanguageNpcData['de'][135691] = {name = "Nathanos Pestrufer", subname = "Champion der Bansheekönigin"}
 MultiLanguageNpcData['de'][135692] = {name = "Saurolisk", subname = nil}
 MultiLanguageNpcData['de'][135693] = {name = "Drelix Goldfunk", subname = nil}
 MultiLanguageNpcData['de'][135694] = {name = "Kaja Freed", subname = nil}
