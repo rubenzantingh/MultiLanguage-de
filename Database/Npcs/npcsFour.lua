@@ -28500,7 +28500,7 @@ MultiLanguageNpcData['de'][210716] = {name = "Lethnal", subname = "Leerenexperte
 MultiLanguageNpcData['de'][210717] = {name = "Thaalean", subname = nil}
 MultiLanguageNpcData['de'][210718] = {name = "Thaalean", subname = nil}
 MultiLanguageNpcData['de'][210719] = {name = "Lethnal", subname = "Leerenexperte"}
-MultiLanguageNpcData['de'][210720] = {name = "Atharuun", subname = "[Demon Trainer]"}
+MultiLanguageNpcData['de'][210720] = {name = "Atharuun", subname = "Dämonenausbilder"}
 MultiLanguageNpcData['de'][210721] = {name = "Immerwährende Gegenwart", subname = nil}
 MultiLanguageNpcData['de'][210722] = {name = "Zerstreuungskristall", subname = nil}
 MultiLanguageNpcData['de'][210723] = {name = "Smaragdfülle", subname = nil}
@@ -30825,7 +30825,7 @@ MultiLanguageNpcData['de'][213763] = {name = "Moira Thaurissan", subname = "Kön
 MultiLanguageNpcData['de'][213764] = {name = "Hungry Duck", subname = nil}
 MultiLanguageNpcData['de'][213765] = {name = "Schwarzkrallenmagier", subname = nil}
 MultiLanguageNpcData['de'][213766] = {name = "Unvergessener Lepragnom", subname = nil}
-MultiLanguageNpcData['de'][213767] = {name = "Carrot", subname = nil}
+MultiLanguageNpcData['de'][213767] = {name = "Karotte", subname = nil}
 MultiLanguageNpcData['de'][213768] = {name = "Unvergessener Alarm-o-Bot", subname = nil}
 MultiLanguageNpcData['de'][213769] = {name = "Rennenthusiast", subname = "Reiter von Azeroth"}
 MultiLanguageNpcData['de'][213770] = {name = "Tinte von Ozumat", subname = nil}
@@ -41132,7 +41132,7 @@ MultiLanguageNpcData['de'][226879] = {name = "Juvenile Deepflayer", subname = ni
 MultiLanguageNpcData['de'][226881] = {name = "Klippenfelsramolith", subname = nil}
 MultiLanguageNpcData['de'][226882] = {name = "Sichtgrenze", subname = nil}
 MultiLanguageNpcData['de'][226883] = {name = "Kill Credit: Empowered", subname = nil}
-MultiLanguageNpcData['de'][226884] = {name = "Marty Zoomcart", subname = "[Public Defender]"}
+MultiLanguageNpcData['de'][226884] = {name = "Marty Rennraser", subname = "Pflichtverteidiger"}
 MultiLanguageNpcData['de'][226885] = {name = "Bunny Prime - Empower (DNT)", subname = nil}
 MultiLanguageNpcData['de'][226886] = {name = "Kill Credit: BQ04a - Debtors Freed", subname = nil}
 MultiLanguageNpcData['de'][226887] = {name = "Kill Credit: BQ03 - Grab Mining Pick", subname = nil}
@@ -41526,7 +41526,7 @@ MultiLanguageNpcData['de'][227350] = {name = "Kill Credit: wildlife catalogued [
 MultiLanguageNpcData['de'][227351] = {name = "Säbelzahnhirschpanzer", subname = nil}
 MultiLanguageNpcData['de'][227352] = {name = "Kalecgos", subname = "[Aspect of the Blue Dragonflight]"}
 MultiLanguageNpcData['de'][227353] = {name = "Erinnerte Herrin der Schmerzen", subname = nil}
-MultiLanguageNpcData['de'][227354] = {name = "Wutgeladener Vollstrecker", subname = "Düsternisverschmolzene Durchsetzung"}
+MultiLanguageNpcData['de'][227354] = {name = "Wutgeladener Vollstrecker", subname = "Vollstreckung der Düsternisverschmolzenen"}
 MultiLanguageNpcData['de'][227355] = {name = "Wutgeladener Vollstrecker", subname = "Vollstreckung der Düsternisverschmolzenen"}
 MultiLanguageNpcData['de'][227356] = {name = "Wutgeladener Vollstrecker", subname = "Vollstreckung der Düsternisverschmolzenen"}
 MultiLanguageNpcData['de'][227358] = {name = "Einwohner des Baus", subname = nil}
@@ -44158,7 +44158,7 @@ MultiLanguageNpcData['de'][231720] = {name = "Sprühbot des Rostbolzens", subnam
 MultiLanguageNpcData['de'][231723] = {name = "Robot", subname = nil}
 MultiLanguageNpcData['de'][231724] = {name = "Robot", subname = nil}
 MultiLanguageNpcData['de'][231725] = {name = "Robot", subname = nil}
-MultiLanguageNpcData['de'][231727] = {name = "1500-Pound \"Dud\"", subname = nil}
+MultiLanguageNpcData['de'][231727] = {name = "700-kg-\"Blindgänger\"", subname = nil}
 MultiLanguageNpcData['de'][231729] = {name = "Alchemieausfluss", subname = nil}
 MultiLanguageNpcData['de'][231730] = {name = "Dicethrower Porta", subname = "[Master Pet Trainer]"}
 MultiLanguageNpcData['de'][231731] = {name = "Kookin", subname = "[Master Pet Trainer]"}
@@ -44181,7 +44181,7 @@ MultiLanguageNpcData['de'][231787] = {name = "Kill Credit", subname = nil}
 MultiLanguageNpcData['de'][231788] = {name = "Instabile Kriechermine", subname = nil}
 MultiLanguageNpcData['de'][231791] = {name = "Kaja'Cola Carrier Unit", subname = nil}
 MultiLanguageNpcData['de'][231793] = {name = "Schmuddelige Zeithüterin", subname = nil}
-MultiLanguageNpcData['de'][231795] = {name = "Red Chip Defense", subname = nil}
+MultiLanguageNpcData['de'][231795] = {name = "Rotchipabwehr", subname = nil}
 MultiLanguageNpcData['de'][231798] = {name = "Hotelstrecke", subname = nil}
 MultiLanguageNpcData['de'][231799] = {name = "Elektrifiziertes Schloss", subname = nil}
 MultiLanguageNpcData['de'][231804] = {name = "Deactivated Venture Co. Shredder", subname = nil}
@@ -44636,8 +44636,8 @@ MultiLanguageNpcData['de'][233066] = {name = "Runenmetz der Blutgischt", subname
 MultiLanguageNpcData['de'][233068] = {name = "Erloschene Bummkugel", subname = nil}
 MultiLanguageNpcData['de'][233070] = {name = "Inhyldir die Verfluchte", subname = "Der gebrochene Schatten"}
 MultiLanguageNpcData['de'][233072] = {name = "Verstärker", subname = nil}
-MultiLanguageNpcData['de'][233073] = {name = "Hotdog Georg", subname = nil}
-MultiLanguageNpcData['de'][233075] = {name = "Heights Spectator", subname = nil}
+MultiLanguageNpcData['de'][233073] = {name = "Würstel-Georg", subname = nil}
+MultiLanguageNpcData['de'][233075] = {name = "Zuschauer der Anhöhe", subname = nil}
 MultiLanguageNpcData['de'][233076] = {name = "Sicherheitsdienst der Anhöhe", subname = nil}
 MultiLanguageNpcData['de'][233081] = {name = "Moira Thaurissan", subname = "Königin der Dunkeleisenzwerge"}
 MultiLanguageNpcData['de'][233085] = {name = "Temporalschrift: Gefängnisblock", subname = nil}
@@ -45551,4 +45551,3 @@ MultiLanguageNpcData['de'][235134] = {name = "Erdhaufen", subname = nil}
 MultiLanguageNpcData['de'][235135] = {name = "Kristalline Erinnerung", subname = nil}
 MultiLanguageNpcData['de'][235138] = {name = "Vorräte der Düsternisverschmolzenen", subname = nil}
 MultiLanguageNpcData['de'][235139] = {name = "Einwohner von Lorenhall", subname = "Einwohnerin von Lorenhall"}
-MultiLanguageNpcData['de'][235140] = {name = "Darkfuse Generator", subname = nil}
