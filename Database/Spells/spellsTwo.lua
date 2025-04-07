@@ -20596,3 +20596,4 @@ MultiLanguageSpellData['de'][1227666] = {name = "Gabe des blauen Drachenschwarms
 MultiLanguageSpellData['de'][1227909] = {name = "Protokoll Zwielicht", additional_info = nil}
 MultiLanguageSpellData['de'][1229476] = {name = "Manaleere", additional_info = "Sofort\n[q]Absorbiert im Verlauf von 5 Sek. 100% Mana."}
 MultiLanguageSpellData['de'][1230531] = {name = "Gabe des blauen Drachenschwarms", additional_info = nil}
+MultiLanguageSpellData['de'][1231991] = {name = "Cooldown Creature Special", additional_info = "Sofort"}
