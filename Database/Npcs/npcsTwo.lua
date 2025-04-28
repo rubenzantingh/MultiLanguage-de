@@ -40704,7 +40704,6 @@ MultiLanguageNpcData['de'][112441] = {name = "Robert Newhearth", subname = "Ober
 MultiLanguageNpcData['de'][112442] = {name = "Fuchsjäger der Nachtgeborenen", subname = nil}
 MultiLanguageNpcData['de'][112443] = {name = "Volpin", subname = "Fuchs"}
 MultiLanguageNpcData['de'][112444] = {name = "Hochlandhimmelsraptor", subname = nil}
-MultiLanguageNpcData['de'][112445] = {name = "Johnny Imba", subname = "Grandiopolis"}
 MultiLanguageNpcData['de'][112446] = {name = "1% Credit", subname = nil}
 MultiLanguageNpcData['de'][112447] = {name = "3% Credit", subname = nil}
 MultiLanguageNpcData['de'][112448] = {name = "5% Credit", subname = nil}

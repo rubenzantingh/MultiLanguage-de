@@ -79,7 +79,7 @@ MultiLanguageNpcData['de'][235321] = {name = "Rebellischer Bürger", subname = n
 MultiLanguageNpcData['de'][235324] = {name = "Beckon Bunny [DNT]", subname = nil}
 MultiLanguageNpcData['de'][235338] = {name = "Schattenfluthorror", subname = nil}
 MultiLanguageNpcData['de'][235339] = {name = "Meereszornjungtier", subname = nil}
-MultiLanguageNpcData['de'][235342] = {name = "Citrinataur", subname = "[Singing Citrine Vendor]"}
+MultiLanguageNpcData['de'][235342] = {name = "Citrinataure", subname = "Verkäufer für singenden Citrin"}
 MultiLanguageNpcData['de'][235345] = {name = "Grüner Brunnen", subname = nil}
 MultiLanguageNpcData['de'][235346] = {name = "Lila Brause", subname = nil}
 MultiLanguageNpcData['de'][235347] = {name = "Forscher des Dampfdruckkartells", subname = nil}
@@ -250,19 +250,10 @@ MultiLanguageNpcData['de'][236058] = {name = "Behüterin Du'una", subname = nil}
 MultiLanguageNpcData['de'][236059] = {name = "Besatzungsmitglied Bolzenglanz", subname = nil}
 MultiLanguageNpcData['de'][236060] = {name = "Besatzungsmitglied Schneidrohr", subname = nil}
 MultiLanguageNpcData['de'][236061] = {name = "Besatzungsmitglied Kurbelwelle", subname = nil}
-MultiLanguageNpcData['de'][236063] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236064] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236065] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236066] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236067] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236068] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236069] = {name = "KC", subname = nil}
-MultiLanguageNpcData['de'][236070] = {name = "KC", subname = nil}
 MultiLanguageNpcData['de'][236083] = {name = "Zek'ul der Schiffszerstörer", subname = nil}
 MultiLanguageNpcData['de'][236086] = {name = "Kumpanenpirscher", subname = nil}
 MultiLanguageNpcData['de'][236090] = {name = "Kumpanensprung Loc", subname = nil}
 MultiLanguageNpcData['de'][236092] = {name = "Blacksmith Bob", subname = nil}
-MultiLanguageNpcData['de'][236095] = {name = "KC", subname = nil}
 MultiLanguageNpcData['de'][236098] = {name = "Unentschlossener Einkäufer", subname = nil}
 MultiLanguageNpcData['de'][236105] = {name = "Vince Sparkralle", subname = "Plunderverkäufer"}
 MultiLanguageNpcData['de'][236109] = {name = "Jane", subname = nil}
@@ -548,7 +539,6 @@ MultiLanguageNpcData['de'][237813] = {name = "Rosa", subname = "Stößelbruchs A
 MultiLanguageNpcData['de'][237815] = {name = "Krümelsammler", subname = nil}
 MultiLanguageNpcData['de'][237816] = {name = "Nalrekk Fizzelkolben", subname = nil}
 MultiLanguageNpcData['de'][237817] = {name = "Nostwin", subname = "Zeitverlorene und vergessene Schätze"}
-MultiLanguageNpcData['de'][237838] = {name = "KC TP", subname = nil}
 MultiLanguageNpcData['de'][237848] = {name = "Venture Co. Electrician", subname = nil}
 MultiLanguageNpcData['de'][237880] = {name = "D.I.S.C.O.", subname = nil}
 MultiLanguageNpcData['de'][237883] = {name = "Marktbude", subname = nil}
@@ -888,12 +878,10 @@ MultiLanguageNpcData['de'][239419] = {name = "Monte Gazlowe", subname = "Handels
 MultiLanguageNpcData['de'][239435] = {name = "Rohling der Düsternisverschmolzenen", subname = nil}
 MultiLanguageNpcData['de'][239447] = {name = "Partyrakete", subname = nil}
 MultiLanguageNpcData['de'][239450] = {name = "Partyrakete", subname = nil}
-MultiLanguageNpcData['de'][239458] = {name = "KC", subname = nil}
 MultiLanguageNpcData['de'][239463] = {name = "Versicherung der Düsternisverschmolzenen", subname = nil}
 MultiLanguageNpcData['de'][239468] = {name = "Madam Gosu", subname = "Repräsentantin des Schwarzmarkts"}
 MultiLanguageNpcData['de'][239554] = {name = "Hovel Hill Wholesaler", subname = nil}
 MultiLanguageNpcData['de'][239567] = {name = "Gazlowes Kriegspanzer", subname = "Fährt sich wie gestohlen"}
-MultiLanguageNpcData['de'][239589] = {name = "KC", subname = nil}
 MultiLanguageNpcData['de'][239607] = {name = "Bilgewater Local", subname = nil}
 MultiLanguageNpcData['de'][239610] = {name = "Johnny Imba", subname = "Grandiopolis"}
 MultiLanguageNpcData['de'][239648] = {name = "Chromkönig Gallywix", subname = nil}
