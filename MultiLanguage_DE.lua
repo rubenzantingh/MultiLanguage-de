@@ -15,13 +15,6 @@ local function addLanguageOption()
         table.insert(MultiLanguageOptions.AVAILABLE_LANGUAGES, {value = 'de', text = 'German'})
         AddLanguageDropdownOption()
     end
-
-    if MultiLanguageTranslations['de'] == nil then
-        MultiLanguageTranslations['de'] = {
-            description = 'Beschreibung',
-            objectives = 'Questziele'
-        }
-    end
 end
 
 local function addonLoaded(self, event, addonLoadedName)
