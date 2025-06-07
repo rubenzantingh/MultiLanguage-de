@@ -9108,7 +9108,7 @@ MultiLanguageNpcData['de'][15341] = {name = "General Rajaxx", subname = nil}
 MultiLanguageNpcData['de'][15343] = {name = "Schwarmwache der Qiraji", subname = nil}
 MultiLanguageNpcData['de'][15344] = {name = "Nadelspeiende Schwarmwache", subname = nil}
 MultiLanguageNpcData['de'][15348] = {name = "Kurinnaxx", subname = nil}
-MultiLanguageNpcData['de'][15349] = {name = "RC Blimp", subname = nil}
+MultiLanguageNpcData['de'][15349] = {name = "RC Blimp", subname = "PH"}
 MultiLanguageNpcData['de'][15350] = {name = "Kriegshetzer der Horde", subname = nil}
 MultiLanguageNpcData['de'][15351] = {name = "Brigadegeneral der Allianz", subname = nil}
 MultiLanguageNpcData['de'][15352] = {name = "Großer Erdelementar", subname = nil}
@@ -9123,7 +9123,7 @@ MultiLanguageNpcData['de'][15360] = {name = "Grünes Murlocbaby", subname = nil}
 MultiLanguageNpcData['de'][15361] = {name = "Murki", subname = nil}
 MultiLanguageNpcData['de'][15362] = {name = "Malfurion Sturmgrimm", subname = nil}
 MultiLanguageNpcData['de'][15363] = {name = "Geistertotem", subname = nil}
-MultiLanguageNpcData['de'][15364] = {name = "RC Mortar Tank", subname = nil}
+MultiLanguageNpcData['de'][15364] = {name = "RC Mortar Tank", subname = "PH"}
 MultiLanguageNpcData['de'][15366] = {name = "Bachtatzenjunges", subname = nil}
 MultiLanguageNpcData['de'][15367] = {name = "Felendren der Verbannte", subname = nil}
 MultiLanguageNpcData['de'][15368] = {name = "Panzermine", subname = nil}
@@ -11321,15 +11321,11 @@ MultiLanguageNpcData['de'][17684] = {name = "Verteidiger Boros", subname = "Drei
 MultiLanguageNpcData['de'][17686] = {name = "Forscher Cornelius", subname = nil}
 MultiLanguageNpcData['de'][17687] = {name = "Flammenpfeil", subname = nil}
 MultiLanguageNpcData['de'][17688] = {name = "Kronenwache, Horde, Eroberungsquest", subname = nil}
-MultiLanguageNpcData['de'][17689] = {name = "Crown Guard Capture Quest Doodad", subname = nil}
-MultiLanguageNpcData['de'][17690] = {name = "Eastwall Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['de'][17691] = {name = "Ostwall, Horde, Eroberungsquest", subname = nil}
 MultiLanguageNpcData['de'][17693] = {name = "Späher der Zerschmetterten Hand", subname = nil}
 MultiLanguageNpcData['de'][17694] = {name = "Dunkelzauberer des Schattenmondklans", subname = nil}
 MultiLanguageNpcData['de'][17695] = {name = "Auftragsmörder der Zerschmetterten Hand", subname = nil}
-MultiLanguageNpcData['de'][17696] = {name = "Northpass Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['de'][17697] = {name = "Nordpass, Horde, Eroberungsquest", subname = nil}
-MultiLanguageNpcData['de'][17698] = {name = "Plaguewood Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['de'][17699] = {name = "Pestwald, Horde, Eroberungsquest", subname = nil}
 MultiLanguageNpcData['de'][17700] = {name = "Sargaras' Wille", subname = nil}
 MultiLanguageNpcData['de'][17701] = {name = "Lord Xiz", subname = nil}
@@ -15232,7 +15228,6 @@ MultiLanguageNpcData['de'][22291] = {name = "Wächter der Schmelze", subname = n
 MultiLanguageNpcData['de'][22292] = {name = "Rilak der Erlöste", subname = nil}
 MultiLanguageNpcData['de'][22293] = {name = "Deaktivierter Teufelshäscher", subname = nil}
 MultiLanguageNpcData['de'][22295] = {name = "Automat der Todesschmiede", subname = nil}
-MultiLanguageNpcData['de'][22296] = {name = "Mystery Mask Summon Bunny", subname = nil}
 MultiLanguageNpcData['de'][22297] = {name = "Hochfürst der Thronwache", subname = nil}
 MultiLanguageNpcData['de'][22298] = {name = "Üble Feuerseele", subname = nil}
 MultiLanguageNpcData['de'][22299] = {name = "Sporenschreiter", subname = nil}
@@ -34994,7 +34989,6 @@ MultiLanguageNpcData['de'][51131] = {name = "Siedler der Wildhämmer", subname =
 MultiLanguageNpcData['de'][51132] = {name = "Beam Target Bunny", subname = nil}
 MultiLanguageNpcData['de'][51134] = {name = "Obelisk Explosion Bunny", subname = nil}
 MultiLanguageNpcData['de'][51135] = {name = "Beam Target Bunny", subname = nil}
-MultiLanguageNpcData['de'][51137] = {name = "Horde Zeppelin Sound Bunny", subname = nil}
 MultiLanguageNpcData['de'][51139] = {name = "Sturzflieger-Ei", subname = nil}
 MultiLanguageNpcData['de'][51140] = {name = "Calen", subname = nil}
 MultiLanguageNpcData['de'][51141] = {name = "Reitgreif von Feuerbart", subname = nil}
@@ -36556,7 +36550,6 @@ MultiLanguageNpcData['de'][54265] = {name = "Danric", subname = "Wrynns Rächer"
 MultiLanguageNpcData['de'][54266] = {name = "Raena", subname = "Wrynns Rächer"}
 MultiLanguageNpcData['de'][54267] = {name = "Victoria", subname = "Wrynns Rächer"}
 MultiLanguageNpcData['de'][54268] = {name = "Cuddles", subname = "Wrynns Rächer"}
-MultiLanguageNpcData['de'][54269] = {name = "Garl Grimmsilber", subname = "Wrynns Rächer"}
 MultiLanguageNpcData['de'][54270] = {name = "Dethbringer", subname = "Wrynns Rächer"}
 MultiLanguageNpcData['de'][54272] = {name = "Fluffy", subname = "<Jägerbegleiter>"}
 MultiLanguageNpcData['de'][54273] = {name = "Guz'tul", subname = "<Hexenmeisterbegleiter>"}
