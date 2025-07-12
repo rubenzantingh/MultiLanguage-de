@@ -8499,7 +8499,7 @@ MultiLanguageNpcData['de'][130963] = {name = "Naznik Bartschneider", subname = "
 MultiLanguageNpcData['de'][130964] = {name = "Christopher Drakul", subname = "Gildenmeister"}
 MultiLanguageNpcData['de'][130965] = {name = "Kim Horn", subname = "Gildenhändlerin"}
 MultiLanguageNpcData['de'][130966] = {name = "Merill Friedner", subname = "Verkäuferin für Wappenröcke"}
-MultiLanguageNpcData['de'][130967] = {name = "Edward Remington", subname = "Designer für Gildenwappenröcke"}
+MultiLanguageNpcData['de'][130967] = {name = "Edward Remington", subname = "Designer für Wappenröcke"}
 MultiLanguageNpcData['de'][130968] = {name = "Gastwirt Norman", subname = "Gastwirt"}
 MultiLanguageNpcData['de'][130969] = {name = "Künder Balthazad", subname = nil}
 MultiLanguageNpcData['de'][130970] = {name = "Eunice Burch", subname = "Kochkunstlehrerin"}
