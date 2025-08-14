@@ -28397,7 +28397,6 @@ MultiLanguageNpcData['de'][153149] = {name = "Leuchtende Schnecke", subname = ni
 MultiLanguageNpcData['de'][153150] = {name = "Tüftlermeister Oberfunks", subname = "Chefarchitekt gnomischer Ingenieurskunst"}
 MultiLanguageNpcData['de'][153151] = {name = "Gila Kurzschluss", subname = "Assistentin des Tüftlermeisters"}
 MultiLanguageNpcData['de'][153152] = {name = "Archäotüftologin", subname = nil}
-MultiLanguageNpcData['de'][153153] = {name = "Archäotüftologe", subname = nil}
 MultiLanguageNpcData['de'][153154] = {name = "Gazlowe", subname = nil}
 MultiLanguageNpcData['de'][153155] = {name = "Präz der Lufthammer", subname = nil}
 MultiLanguageNpcData['de'][153156] = {name = "Skaggit", subname = "Gazlowes Assistent"}
@@ -31671,7 +31670,7 @@ MultiLanguageNpcData['de'][156796] = {name = "Wilder Ätherling", subname = nil}
 MultiLanguageNpcData['de'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['de'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['de'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['de'][156800] = {name = "Rüstmeisterin Richter", subname = "Vorräte"}
+MultiLanguageNpcData['de'][156800] = {name = "Rüstmeisterin Richter", subname = "Vorräte und Reparaturen"}
 MultiLanguageNpcData['de'][156801] = {name = "Gefreiter Cole", subname = nil}
 MultiLanguageNpcData['de'][156802] = {name = "Runenbombe", subname = nil}
 MultiLanguageNpcData['de'][156803] = {name = "Alaria", subname = nil}
@@ -40921,7 +40920,7 @@ MultiLanguageNpcData['de'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['de'][167210] = {name = "Rechenmaschine Killham", subname = "Schlachtenrächer"}
 MultiLanguageNpcData['de'][167211] = {name = "Erinnerungsextraktor", subname = nil}
 MultiLanguageNpcData['de'][167212] = {name = "Kriegsherrin Breka Grimmaxt", subname = nil}
-MultiLanguageNpcData['de'][167213] = {name = "Versorger Jin'hake", subname = nil}
+MultiLanguageNpcData['de'][167213] = {name = "Versorger Jin'hake", subname = "Reparaturen und Vorräte"}
 MultiLanguageNpcData['de'][167214] = {name = "Verteidiger von Agthia", subname = nil}
 MultiLanguageNpcData['de'][167215] = {name = "Mithdran Dämmersucher", subname = "Stallmeister"}
 MultiLanguageNpcData['de'][167216] = {name = "Grunzer Throg", subname = nil}

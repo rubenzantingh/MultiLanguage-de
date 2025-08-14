@@ -24786,7 +24786,6 @@ MultiLanguageNpcData['de'][34149] = {name = "Frostbombe", subname = nil}
 MultiLanguageNpcData['de'][34150] = {name = "Schneehügel", subname = nil}
 MultiLanguageNpcData['de'][34151] = {name = "Schneehügel", subname = nil}
 MultiLanguageNpcData['de'][34154] = {name = "Blaues Skelettschlachtross", subname = nil}
-MultiLanguageNpcData['de'][34155] = {name = "Weißer Kodo", subname = nil}
 MultiLanguageNpcData['de'][34156] = {name = "Gifthautravasaurus", subname = nil}
 MultiLanguageNpcData['de'][34157] = {name = "Toxic Tolerance Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['de'][34158] = {name = "Junger Gifthautravasaurus", subname = nil}

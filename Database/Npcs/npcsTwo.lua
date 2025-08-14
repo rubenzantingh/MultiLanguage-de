@@ -6793,7 +6793,6 @@ MultiLanguageNpcData['de'][73324] = {name = "Schildwache von Sternenfall", subna
 MultiLanguageNpcData['de'][73325] = {name = "Teufelswolf", subname = nil}
 MultiLanguageNpcData['de'][73326] = {name = "Mystiker Federstern", subname = "Arkaner Umschmieder"}
 MultiLanguageNpcData['de'][73327] = {name = "Ausrüster Echowurz", subname = "Trainingsausrüstung"}
-MultiLanguageNpcData['de'][73328] = {name = "Nadaga Seelenweber", subname = nil}
 MultiLanguageNpcData['de'][73329] = {name = "Einsturz", subname = nil}
 MultiLanguageNpcData['de'][73330] = {name = "Lehrensucher Cho", subname = nil}
 MultiLanguageNpcData['de'][73331] = {name = "Zerfledderte Notiz", subname = nil}
@@ -23691,7 +23690,7 @@ MultiLanguageNpcData['de'][92865] = {name = "Hoffnungsbringer der Argentumdämme
 MultiLanguageNpcData['de'][92866] = {name = "Hoffnungsbringer der Argentumdämmerung", subname = nil}
 MultiLanguageNpcData['de'][92867] = {name = "Faulender Terrorhauerkadaver", subname = nil}
 MultiLanguageNpcData['de'][92868] = {name = "Treantsetzling", subname = nil}
-MultiLanguageNpcData['de'][92870] = {name = "Sindragosas Furor", subname = nil}
+MultiLanguageNpcData['de'][92870] = {name = "Furor des Frostwyrms", subname = nil}
 MultiLanguageNpcData['de'][92871] = {name = "Ysera Taxi Mouthpiece", subname = nil}
 MultiLanguageNpcData['de'][92872] = {name = "Geist", subname = nil}
 MultiLanguageNpcData['de'][92873] = {name = "Seelenverzerrer des Dämonenpakts", subname = nil}
