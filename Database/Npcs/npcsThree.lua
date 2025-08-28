@@ -7104,7 +7104,7 @@ MultiLanguageNpcData['de'][129318] = {name = "Sandläuferkrabbe", subname = nil}
 MultiLanguageNpcData['de'][129319] = {name = "Klingenwache Tarkaj", subname = nil}
 MultiLanguageNpcData['de'][129320] = {name = "Perlenkanalhuhn (Sturm)", subname = nil}
 MultiLanguageNpcData['de'][129321] = {name = "Perlenkanalhuhn (Aktuell)", subname = nil}
-MultiLanguageNpcData['de'][129322] = {name = "Stationärer Umkleider", subname = nil}
+MultiLanguageNpcData['de'][129322] = {name = "Stationärer Umkleider", subname = "Transmogrifizierer"}
 MultiLanguageNpcData['de'][129323] = {name = "Kaiserin der Säbelhauer", subname = nil}
 MultiLanguageNpcData['de'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['de'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
@@ -7577,7 +7577,7 @@ MultiLanguageNpcData['de'][129867] = {name = "Bombardierender Zeppelin", subname
 MultiLanguageNpcData['de'][129868] = {name = "Schluchtgeier", subname = nil}
 MultiLanguageNpcData['de'][129869] = {name = "Hungriger Wühler", subname = nil}
 MultiLanguageNpcData['de'][129870] = {name = "Ebermeister der Borstenrücken", subname = nil}
-MultiLanguageNpcData['de'][129871] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][129872] = {name = "Vereesa Windläufer", subname = "Waldläufergeneralin des Silberbunds"}
 MultiLanguageNpcData['de'][129873] = {name = "Ruinenwächter", subname = nil}
 MultiLanguageNpcData['de'][129874] = {name = "Treuloser Fallensteller", subname = nil}
@@ -28331,7 +28331,7 @@ MultiLanguageNpcData['de'][153080] = {name = "Stimme der Königin", subname = "A
 MultiLanguageNpcData['de'][153081] = {name = "Feiernder des Braufests", subname = nil}
 MultiLanguageNpcData['de'][153082] = {name = "Feiernder des Braufests", subname = nil}
 MultiLanguageNpcData['de'][153083] = {name = "Vethan von Frostherz", subname = nil}
-MultiLanguageNpcData['de'][153084] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][153085] = {name = "Lichtgeschmiedeter Paladin", subname = nil}
 MultiLanguageNpcData['de'][153086] = {name = "Lichtgeschmiedeter Kriegspriester", subname = nil}
 MultiLanguageNpcData['de'][153087] = {name = "Lichtgeschmiedetes Bollwerk", subname = nil}
@@ -28397,6 +28397,7 @@ MultiLanguageNpcData['de'][153149] = {name = "Leuchtende Schnecke", subname = ni
 MultiLanguageNpcData['de'][153150] = {name = "Tüftlermeister Oberfunks", subname = "Chefarchitekt gnomischer Ingenieurskunst"}
 MultiLanguageNpcData['de'][153151] = {name = "Gila Kurzschluss", subname = "Assistentin des Tüftlermeisters"}
 MultiLanguageNpcData['de'][153152] = {name = "Archäotüftologin", subname = nil}
+MultiLanguageNpcData['de'][153153] = {name = "Archäotüftologe", subname = nil}
 MultiLanguageNpcData['de'][153154] = {name = "Gazlowe", subname = nil}
 MultiLanguageNpcData['de'][153155] = {name = "Präz der Lufthammer", subname = nil}
 MultiLanguageNpcData['de'][153156] = {name = "Skaggit", subname = "Gazlowes Assistent"}
@@ -31561,7 +31562,7 @@ MultiLanguageNpcData['de'][156660] = {name = "Kapitänin Garrick", subname = nil
 MultiLanguageNpcData['de'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['de'][156662] = {name = "Kapitänin Garrick", subname = nil}
 MultiLanguageNpcData['de'][156663] = {name = "Warpweber Ta'oren", subname = "Transmogrifizierer"}
-MultiLanguageNpcData['de'][156664] = {name = "Tresorhüter Ta'khis", subname = "Leerenlager"}
+MultiLanguageNpcData['de'][156664] = {name = "Tresorhüter Ta'khis", subname = nil}
 MultiLanguageNpcData['de'][156665] = {name = "Geehrter Seelenjäger", subname = nil}
 MultiLanguageNpcData['de'][156666] = {name = "Schmied Au'berk", subname = "Schmiedekunstlehrer"}
 MultiLanguageNpcData['de'][156667] = {name = "Schinder Au'khem", subname = "Kürschnerlehrer"}

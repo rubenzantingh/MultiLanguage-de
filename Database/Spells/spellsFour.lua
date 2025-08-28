@@ -21671,7 +21671,7 @@ MultiLanguageSpellData['de'][248108] = {name = "Send Event Delay", additional_in
 MultiLanguageSpellData['de'][248109] = {name = "Send Event", additional_info = nil}
 MultiLanguageSpellData['de'][248110] = {name = "Der erste Tote", additional_info = "[q]Für 2 Sek. nach der Aktivierung von 'Symbole des Todes' erzeugt 'Schattenschlag' 3 zusätzliche Combopunkte und 'Meucheln' 4 zusätzliche Combopunkte.\n(500ms Abklingzeit)"}
 MultiLanguageSpellData['de'][248111] = {name = "Sturmrufer des Aszendenten", additional_info = "[q]'Felsbeißer' hat eine Chance von 10%, Euch für 10 Sek. 'Aszendenz' zu gewähren.\n(Procchance: 10%)"}
-MultiLanguageSpellData['de'][248113] = {name = "Der Meister der Ernte", additional_info = "[q]Jeder Seelensplitter, den Ihr verbraucht, hat eine Chance von [ Dämonologie : 3% ] [ Zerstörung : 6% /\n\nGebrechen\n9% ] Euch 8 Sek. lang 'Seelenernte' zu gewähren."}
+MultiLanguageSpellData['de'][248113] = {name = "Der Meister der Ernte", additional_info = "[q]Dämonologie\n Jeder Seelensplitter, den Ihr verbraucht, hat eine Chance von 3%, Euch 8 Sek. lang 'Seelenernte' zu gewähren.\n\nZerstörung\n Jeder Seelensplitter, den Ihr verbraucht, hat eine Chance von 6%, Euch 8 Sek. lang 'Seelenernte' zu gewähren.\n\nGebrechen\n Jeder Seelensplitter, den Ihr verbraucht, hat eine Chance von 9%, Euch 8 Sek. lang 'Seelenernte' zu gewähren."}
 MultiLanguageSpellData['de'][248115] = {name = "Finns Pistole", additional_info = nil}
 MultiLanguageSpellData['de'][248117] = {name = "Ararats Blutspiegel", additional_info = "[q]Gewährt 'Schildblock' und 'Zauberreflexion' 1 zusätzliche Aufladung."}
 MultiLanguageSpellData['de'][248118] = {name = "Das Auge des großen Sturms", additional_info = "[q]'Klingensturm' erhöht 6 Sek. lang Eure Bewegungsgeschwindigkeit um 10% und Euren verursachten Schaden um 2%. Dieser Effekt wird in regelmäßigen Abständen stärker und ist bis zu 6-mal stapelbar."}
@@ -49261,6 +49261,7 @@ MultiLanguageSpellData['de'][280817] = {name = "Schlachtfeldfokus", additional_i
 MultiLanguageSpellData['de'][280819] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['de'][280820] = {name = "Azeritpulverfass", additional_info = nil}
 MultiLanguageSpellData['de'][280821] = {name = "Azeritpulverfass", additional_info = nil}
+MultiLanguageSpellData['de'][280822] = {name = "Teleport", additional_info = nil}
 MultiLanguageSpellData['de'][280823] = {name = "Invasion", additional_info = nil}
 MultiLanguageSpellData['de'][280824] = {name = "Hungrig", additional_info = nil}
 MultiLanguageSpellData['de'][280825] = {name = "Anbringen...", additional_info = nil}

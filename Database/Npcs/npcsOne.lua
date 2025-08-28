@@ -10467,7 +10467,7 @@ MultiLanguageNpcData['de'][16882] = {name = "Zahlenkonsole", subname = nil}
 MultiLanguageNpcData['de'][16883] = {name = "Silas' Reittier", subname = nil}
 MultiLanguageNpcData['de'][16884] = {name = "Schlachtross", subname = nil}
 MultiLanguageNpcData['de'][16885] = {name = "Amythiel Nebelgänger", subname = nil}
-MultiLanguageNpcData['de'][16886] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][16887] = {name = "Auge der Ehrenfeste", subname = nil}
 MultiLanguageNpcData['de'][16888] = {name = "Mahuram Starkhuf", subname = nil}
 MultiLanguageNpcData['de'][16889] = {name = "Feiernder von Sturmwind", subname = nil}
@@ -24786,6 +24786,7 @@ MultiLanguageNpcData['de'][34149] = {name = "Frostbombe", subname = nil}
 MultiLanguageNpcData['de'][34150] = {name = "Schneehügel", subname = nil}
 MultiLanguageNpcData['de'][34151] = {name = "Schneehügel", subname = nil}
 MultiLanguageNpcData['de'][34154] = {name = "Blaues Skelettschlachtross", subname = nil}
+MultiLanguageNpcData['de'][34155] = {name = "Weißer Kodo", subname = nil}
 MultiLanguageNpcData['de'][34156] = {name = "Gifthautravasaurus", subname = nil}
 MultiLanguageNpcData['de'][34157] = {name = "Toxic Tolerance Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['de'][34158] = {name = "Junger Gifthautravasaurus", subname = nil}
@@ -40652,7 +40653,7 @@ MultiLanguageNpcData['de'][54439] = {name = "Avatar von Rhyolith", subname = nil
 MultiLanguageNpcData['de'][54440] = {name = "Avatar von Shannox", subname = nil}
 MultiLanguageNpcData['de'][54441] = {name = "Thaumaturg Vashreen", subname = "Arkaner Umschmieder"}
 MultiLanguageNpcData['de'][54442] = {name = "Warpweber Hashom", subname = "Transmogrifizierer"}
-MultiLanguageNpcData['de'][54443] = {name = "Tresorhüter Razhid", subname = "Leerenlager"}
+MultiLanguageNpcData['de'][54443] = {name = "Tresorhüter Razhid", subname = nil}
 MultiLanguageNpcData['de'][54444] = {name = "Gnoll des Dunkelmond-Jahrmarkts", subname = nil}
 MultiLanguageNpcData['de'][54445] = {name = "Echo von Jaina", subname = nil}
 MultiLanguageNpcData['de'][54446] = {name = "Flammenkernfunken", subname = nil}
@@ -40663,7 +40664,7 @@ MultiLanguageNpcData['de'][54466] = {name = "Darkmoon Faire Gnoll - Baby", subna
 MultiLanguageNpcData['de'][54467] = {name = "Wirbler", subname = nil}
 MultiLanguageNpcData['de'][54470] = {name = "Trugbild des Verlangens", subname = nil}
 MultiLanguageNpcData['de'][54471] = {name = "Thaumaturg Zajir", subname = "Arkaner Umschmieder"}
-MultiLanguageNpcData['de'][54472] = {name = "Tresorhüter Jazra", subname = "Leerenlager"}
+MultiLanguageNpcData['de'][54472] = {name = "Tresorhüter Jazra", subname = nil}
 MultiLanguageNpcData['de'][54473] = {name = "Warpweber Dushar", subname = "Transmogrifizierer"}
 MultiLanguageNpcData['de'][54474] = {name = "Nebel der Zeit", subname = nil}
 MultiLanguageNpcData['de'][54475] = {name = "Krebs", subname = nil}
@@ -47880,7 +47881,7 @@ MultiLanguageNpcData['de'][64570] = {name = "Tan Starkmast", subname = "Angelbed
 MultiLanguageNpcData['de'][64571] = {name = "Lichtbrunnen", subname = nil}
 MultiLanguageNpcData['de'][64572] = {name = "Sara Finkelknips", subname = "Kampfhaustiertrainerin"}
 MultiLanguageNpcData['de'][64573] = {name = "Warpweber Ramahesh", subname = "Transmogrifizierer"}
-MultiLanguageNpcData['de'][64574] = {name = "Kassierer Edouin", subname = "Leerenlager"}
+MultiLanguageNpcData['de'][64574] = {name = "Kassierer Edouin", subname = nil}
 MultiLanguageNpcData['de'][64575] = {name = "Chan Hoi-San", subname = "Flüchtling von Kun-Lai"}
 MultiLanguageNpcData['de'][64576] = {name = "Bandit", subname = "Kampfhaustier"}
 MultiLanguageNpcData['de'][64577] = {name = "Der Fiedler", subname = "Kampfhaustier"}
