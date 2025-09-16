@@ -26913,7 +26913,7 @@ MultiLanguageNpcData['de'][96602] = {name = "Verteidigerin Corin", subname = nil
 MultiLanguageNpcData['de'][96603] = {name = "Justiziarin Julia Celeste", subname = nil}
 MultiLanguageNpcData['de'][96604] = {name = "Jorad Knüpp", subname = nil}
 MultiLanguageNpcData['de'][96605] = {name = "Leoric von Zeldig", subname = nil}
-MultiLanguageNpcData['de'][96606] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][96606] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][96608] = {name = "Schwarzklauenworg", subname = nil}
 MultiLanguageNpcData['de'][96609] = {name = "Goldfellhirsch", subname = nil}
 MultiLanguageNpcData['de'][96611] = {name = "Zornhufbulle", subname = nil}

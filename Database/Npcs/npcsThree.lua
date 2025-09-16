@@ -659,7 +659,7 @@ MultiLanguageNpcData['de'][121751] = {name = "Kill Credit: Go to Transport", sub
 MultiLanguageNpcData['de'][121752] = {name = "Schleimi", subname = "Diener des Lichkönigs"}
 MultiLanguageNpcData['de'][121753] = {name = "Großadmiralin Jes-Tereth", subname = nil}
 MultiLanguageNpcData['de'][121754] = {name = "Vereesa Windläufer", subname = "Waldläufergeneralin des Silberbunds"}
-MultiLanguageNpcData['de'][121755] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][121755] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][121756] = {name = "Verteidiger Boros", subname = "Hand von Argus"}
 MultiLanguageNpcData['de'][121757] = {name = "Marinesoldat der 7. Legion", subname = nil}
 MultiLanguageNpcData['de'][121758] = {name = "Kanonier der 7. Legion", subname = nil}
