@@ -1,3 +1,4 @@
+MultiLanguageNpcData['de'][175417] = {name = "Sulanoom", subname = "Waffenschmiedin von Nathria (Mythisch)"}
 MultiLanguageNpcData['de'][175418] = {name = "Mar'lan", subname = "Rüstungshändler der Nachtfae"}
 MultiLanguageNpcData['de'][175419] = {name = "Handwerksmeisterin Lamda", subname = "Gegenstandsaufwertungen"}
 MultiLanguageNpcData['de'][175420] = {name = "Marterklaue", subname = nil}
@@ -45492,4 +45493,3 @@ MultiLanguageNpcData['de'][233139] = {name = "Maschinist Kromleg", subname = nil
 MultiLanguageNpcData['de'][233142] = {name = "Grimmiger Gast", subname = nil}
 MultiLanguageNpcData['de'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['de'][233144] = {name = "Gehärtetes Banner der Algari", subname = nil}
-MultiLanguageNpcData['de'][233145] = {name = "Geachtetes Banner der Algari", subname = nil}

@@ -1,3 +1,4 @@
+MultiLanguageNpcData['de'][120958] = {name = "Xorothianischer Teufelsritter", subname = nil}
 MultiLanguageNpcData['de'][120959] = {name = "Neuer Arbeitsauftrag", subname = nil}
 MultiLanguageNpcData['de'][120961] = {name = "Höllenbestieneinschlag", subname = nil}
 MultiLanguageNpcData['de'][120962] = {name = "Teufelssogflutstimme", subname = nil}
@@ -379,7 +380,7 @@ MultiLanguageNpcData['de'][121404] = {name = "Objective Complete", subname = nil
 MultiLanguageNpcData['de'][121405] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['de'][121406] = {name = "Objective Complete", subname = nil}
 MultiLanguageNpcData['de'][121407] = {name = "Objective Complete", subname = nil}
-MultiLanguageNpcData['de'][121408] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][121408] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][121409] = {name = "Todesritter der Schwarzen Klinge", subname = nil}
 MultiLanguageNpcData['de'][121410] = {name = "Verteidiger Boros", subname = nil}
 MultiLanguageNpcData['de'][121411] = {name = "Myrmidone der Echsennarbe", subname = nil}
@@ -48513,4 +48514,3 @@ MultiLanguageNpcData['de'][175413] = {name = "Glitzerbrise", subname = "Waffensc
 MultiLanguageNpcData['de'][175414] = {name = "Adera", subname = "Waffenschmiedin von Nathria (Normal)"}
 MultiLanguageNpcData['de'][175415] = {name = "Harkoth", subname = "Waffenschmied von Nathria (Heroisch)"}
 MultiLanguageNpcData['de'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['de'][175417] = {name = "Sulanoom", subname = "Waffenschmiedin von Nathria (Mythisch)"}
