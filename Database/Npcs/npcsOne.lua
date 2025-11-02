@@ -21933,6 +21933,7 @@ MultiLanguageNpcData['de'][30171] = {name = "Kampfmeister des Rings der Ehre", s
 MultiLanguageNpcData['de'][30172] = {name = "Schwarmei der Ahn'kahar", subname = nil}
 MultiLanguageNpcData['de'][30173] = {name = "Wächterei der Ahn'kahar", subname = nil}
 MultiLanguageNpcData['de'][30174] = {name = "Kriegsbär des Hildarthings", subname = nil}
+MultiLanguageNpcData['de'][30175] = {name = "Bärenreiterin des Hildarthings", subname = nil}
 MultiLanguageNpcData['de'][30176] = {name = "Wächter der Ahn'kahar", subname = nil}
 MultiLanguageNpcData['de'][30177] = {name = "Verheerter Höhlenworg", subname = nil}
 MultiLanguageNpcData['de'][30178] = {name = "Schwärmer der Ahn'kahar", subname = nil}
@@ -21967,6 +21968,7 @@ MultiLanguageNpcData['de'][30209] = {name = "Nordblitzschmiede", subname = nil}
 MultiLanguageNpcData['de'][30210] = {name = "Hodir's Helm KC Bunny", subname = nil}
 MultiLanguageNpcData['de'][30211] = {name = "Zentralblitzschmiede", subname = nil}
 MultiLanguageNpcData['de'][30212] = {name = "Südblitzschmiede", subname = nil}
+MultiLanguageNpcData['de'][30214] = {name = "Thrall's Big Hit, Lightning Bolt Bunny", subname = nil}
 MultiLanguageNpcData['de'][30215] = {name = "Ice Spike Target Bunny", subname = nil}
 MultiLanguageNpcData['de'][30216] = {name = "Ekel", subname = nil}
 MultiLanguageNpcData['de'][30217] = {name = "Steven Allen", subname = nil}
@@ -22010,6 +22012,7 @@ MultiLanguageNpcData['de'][30256] = {name = "Späher Ordimbral", subname = "Gemi
 MultiLanguageNpcData['de'][30257] = {name = "Späherin Yribria", subname = "Gemischtwaren"}
 MultiLanguageNpcData['de'][30258] = {name = "Amanitar", subname = nil}
 MultiLanguageNpcData['de'][30259] = {name = "Späherhauptmann Elsia", subname = nil}
+MultiLanguageNpcData['de'][30260] = {name = "Ruhiges Mammut", subname = nil}
 MultiLanguageNpcData['de'][30261] = {name = "Späherhauptmann Daelin", subname = nil}
 MultiLanguageNpcData['de'][30262] = {name = "Sohn von Hodir", subname = nil}
 MultiLanguageNpcData['de'][30263] = {name = "Reiter des Silberbunds", subname = nil}
@@ -22275,6 +22278,7 @@ MultiLanguageNpcData['de'][30575] = {name = "Frostbrutzerstörer", subname = nil
 MultiLanguageNpcData['de'][30576] = {name = "Vile Like Fire! Kill Credit Bunny", subname = nil}
 MultiLanguageNpcData['de'][30577] = {name = "Vanguard Tower Dummy", subname = nil}
 MultiLanguageNpcData['de'][30578] = {name = "Bethany Aldire", subname = "Kampfmeisterin des Strands der Uralten"}
+MultiLanguageNpcData['de'][30579] = {name = "Marga Bärenstarker", subname = "Kampfmeisterin des Strands der Uralten"}
 MultiLanguageNpcData['de'][30580] = {name = "Nivara Klingentänzer", subname = "Kampfmeisterin des Strands der Uralten"}
 MultiLanguageNpcData['de'][30581] = {name = "Buhurda", subname = "Kampfmeister des Strands der Uralten"}
 MultiLanguageNpcData['de'][30582] = {name = "Ufuda Riesentöter", subname = "Kampfmeisterin des Strands der Uralten"}
@@ -42171,6 +42175,7 @@ MultiLanguageNpcData['de'][56630] = {name = "Alexstrasza die Lebensbinderin", su
 MultiLanguageNpcData['de'][56631] = {name = "Hopfling", subname = nil}
 MultiLanguageNpcData['de'][56635] = {name = "Mostrasz", subname = nil}
 MultiLanguageNpcData['de'][56636] = {name = "Kommandant Ri'mok", subname = nil}
+MultiLanguageNpcData['de'][56637] = {name = "Uuk-Uuk", subname = nil}
 MultiLanguageNpcData['de'][56638] = {name = "Shokia", subname = nil}
 MultiLanguageNpcData['de'][56639] = {name = "Jinyutaktiker", subname = nil}
 MultiLanguageNpcData['de'][56640] = {name = "Feuerball", subname = nil}

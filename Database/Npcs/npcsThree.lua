@@ -6639,7 +6639,7 @@ MultiLanguageNpcData['de'][128779] = {name = "Aethas Sonnenhäscher", subname = 
 MultiLanguageNpcData['de'][128780] = {name = "Schlachtkrogg", subname = nil}
 MultiLanguageNpcData['de'][128781] = {name = "Lady Liadrin", subname = "Matriarchin der Blutritter"}
 MultiLanguageNpcData['de'][128782] = {name = "Verteidiger Boros", subname = "Hand von Argus"}
-MultiLanguageNpcData['de'][128783] = {name = "Arator der Erlöser", subname = nil}
+MultiLanguageNpcData['de'][128783] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['de'][128784] = {name = "Vereesa Windläufer", subname = "Waldläufergeneralin des Silberbunds"}
 MultiLanguageNpcData['de'][128785] = {name = "Verteidiger Boros", subname = "Hand von Argus"}
 MultiLanguageNpcData['de'][128786] = {name = "Robba Klobba", subname = nil}
