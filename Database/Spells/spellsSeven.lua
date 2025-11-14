@@ -23436,7 +23436,6 @@ MultiLanguageSpellData['de'][438174] = {name = "Kerzenknabberer rufen", addition
 MultiLanguageSpellData['de'][438180] = {name = "Wachsen", additional_info = nil}
 MultiLanguageSpellData['de'][438200] = {name = "Giftblitz", additional_info = "100 Meter Reichweite\nWirken in 1.5 sek.\n[q]Takazj schleudert ein Giftkügelchen auf ihr aktuelles Ziel, das 1588743 Naturschaden und 18 Sek. lang alle 3 Sek. 829612 zusätzlichen Naturschaden verursacht."}
 MultiLanguageSpellData['de'][438203] = {name = "Translokation", additional_info = "Wirken in 0.5 sek.\n[q]Teleportiert auf die Brücke vor der Nachtfestung."}
-MultiLanguageSpellData['de'][438204] = {name = "Translokation", additional_info = "Wirken in 0.5 sek.\n[q]Teleportiert auf den Innenhof der Nachtfestung."}
 MultiLanguageSpellData['de'][438216] = {name = "Wachsen", additional_info = nil}
 MultiLanguageSpellData['de'][438218] = {name = "Durchbohrender Schlag", additional_info = "200 Meter Reichweite\nWirken in 1.5 sek.\n[q]Anub'arash durchschlägt sein aktuelles Ziel, was diesem 23025261 körperlichen Schaden zufügt und den durch ' Durchbohrender Schlag ' erlittenen Schaden 36 Sek. lang um 1000% erhöht. Dieser Effekt ist stapelbar."}
 MultiLanguageSpellData['de'][438232] = {name = "Leerenkette", additional_info = nil}

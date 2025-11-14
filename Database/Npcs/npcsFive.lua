@@ -4580,8 +4580,8 @@ MultiLanguageNpcData['de'][250276] = {name = "Mote of Bronze", subname = nil}
 MultiLanguageNpcData['de'][250285] = {name = "Spider", subname = nil}
 MultiLanguageNpcData['de'][250320] = {name = "Konstrukteur Xy'desh", subname = "Gegenstandsaufwertungen"}
 MultiLanguageNpcData['de'][250417] = {name = "Leerenwache", subname = nil}
-MultiLanguageNpcData['de'][250450] = {name = "Fixer So'kir", subname = "[Broker of Heroic Goods]"}
-MultiLanguageNpcData['de'][250454] = {name = "Fixer So'tho", subname = "[Broker of Mythical Goods]"}
+MultiLanguageNpcData['de'][250450] = {name = "Schmierer So'kir", subname = "Mittler heroischer Waren"}
+MultiLanguageNpcData['de'][250454] = {name = "Schmierer So'tho", subname = "Mittler mythischer Waren"}
 MultiLanguageNpcData['de'][250458] = {name = "Kill Credit - Ritual 3", subname = nil}
 MultiLanguageNpcData['de'][250463] = {name = "Kill Credit - Ritual 3", subname = nil}
 MultiLanguageNpcData['de'][250466] = {name = "Blutjägerteufelsfledermaus", subname = nil}
@@ -4665,6 +4665,7 @@ MultiLanguageNpcData['de'][254092] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['de'][254093] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['de'][254164] = {name = "Wasserfontäne", subname = nil}
 MultiLanguageNpcData['de'][254369] = {name = "Steuerung", subname = nil}
+MultiLanguageNpcData['de'][256938] = {name = "Khadgars verbesserter Diener", subname = nil}
 MultiLanguageNpcData['de'][257023] = {name = "Hyäne", subname = nil}
 MultiLanguageNpcData['de'][257026] = {name = "Grollhuf", subname = nil}
 MultiLanguageNpcData['de'][257031] = {name = "Teufelshund", subname = nil}

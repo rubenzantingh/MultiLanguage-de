@@ -9842,6 +9842,7 @@ MultiLanguageNpcData['de'][187234] = {name = "Pfadfinderin Tacha", subname = nil
 MultiLanguageNpcData['de'][187235] = {name = "Schuppenkommandantin Glutdresch", subname = "Dunkelkrallen"}
 MultiLanguageNpcData['de'][187236] = {name = "Boss Magor", subname = "Handwerksgilde von Orgrimmar"}
 MultiLanguageNpcData['de'][187238] = {name = "Siecherling", subname = nil}
+MultiLanguageNpcData['de'][187239] = {name = "Zeitverlorener Sonnensucher", subname = nil}
 MultiLanguageNpcData['de'][187240] = {name = "Brecherin der Drakoniden", subname = "Die Splitterflammen"}
 MultiLanguageNpcData['de'][187241] = {name = "Dicker Brocken", subname = nil}
 MultiLanguageNpcData['de'][187242] = {name = "Erbeuter der Tarasek", subname = "Die Splitterflammen"}
