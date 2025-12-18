@@ -5383,7 +5383,7 @@ MultiLanguageSpellData['de'][19776] = {name = "Schattenwort: Schmerz", additiona
 MultiLanguageSpellData['de'][19777] = {name = "Dunkler Stoß", additional_info = "{250 Mana} {10 Meter Reichweite}\nNächster Nahkampf\nBenötigt Nahkampfwaffe\n[q]Weiht die Waffe des Zaubernden und verursacht bei ihrem nächsten Angriff 883 zusätzlichen Schaden. Der gesamte zugefügte Schaden wird als Schattenschaden angesehen."}
 MultiLanguageSpellData['de'][19778] = {name = "Demoralisierender Ruf", additional_info = "Sofort\n[q]Verringert Nahkampf- und Distanzangriffskraft von in der Nähe befindlichen Feinden 30 Sek. lang um 121."}
 MultiLanguageSpellData['de'][19779] = {name = "Inspirieren", additional_info = "45 Meter Reichweite\nSofort\n[q]Erhöht den von einem Verbündeten zugefügten körperlichen Schaden um 25% und sein Angriffstempo 10 Sek. lang um 100%."}
-MultiLanguageSpellData['de'][19780] = {name = "Hand von Ragnaros", additional_info = "Sofort\n[q]Fügt in der Nähe befindlichen Feinden 1422948 Feuerschaden zu, stößt sie zurück und betäubt sie 2 Sek. lang."}
+MultiLanguageSpellData['de'][19780] = {name = "Hand von Ragnaros", additional_info = "Sofort\n[q]Fügt in der Nähe befindlichen Feinden 6 Feuerschaden zu, stößt sie zurück und betäubt sie 2 Sek. lang."}
 MultiLanguageSpellData['de'][19781] = {name = "Flammenspeer", additional_info = "45 Meter Reichweite\nSofort\n[q]Wirft einen Flammenspeer, fügt einem Feind (100% der Zaubermacht) Feuerschaden zu und versengt außerdem alle anderen Feinde in der Nähe des Ziels."}
 MultiLanguageSpellData['de'][19784] = {name = "Dunkeleisenbombe", additional_info = "15 Meter Reichweite\nWirken in 1 sek."}
 MultiLanguageSpellData['de'][19785] = {name = "Werfen", additional_info = "8 - 40 Meter Reichweite\nSofort\n[q]Wirft eine Waffe nach einem Feind und fügt (100% der Zaubermacht) Schaden zu."}
@@ -6572,7 +6572,7 @@ MultiLanguageSpellData['de'][23184] = {name = "Mal des Frosts", additional_info 
 MultiLanguageSpellData['de'][23186] = {name = "Aura des Frosts", additional_info = nil}
 MultiLanguageSpellData['de'][23187] = {name = "Frostbeulen", additional_info = "Wirken in 2 sek.\n[q]Fügt allen Feinden 730 Frostschaden zu, entzieht 331 Mana und erhöht 15 Sek. lang die Zeit zwischen Angriffen um 400%."}
 MultiLanguageSpellData['de'][23189] = {name = "Frostbeulen", additional_info = "Wirken in 2 sek.\n[q]Fügt allen Gegnern 730 Frostschaden zu, zieht ihnen 15 Sek. lang 331 Mana ab und erhöht dabei die Zeit zwischen ihren Angriffen um 400%."}
-MultiLanguageSpellData['de'][23190] = {name = "Schwerer Lederball", additional_info = "Wirken in 3.5 sek.\nReagenzien:\nSchweres Leder (2), Feiner Faden\nVerkäufer:\nTamar\nZone:\nOrgrimmar\nKosten:\n20\n\n[q2]Benutzen: Werft den Ball einem freundlich gesinnten Spieler zu. Falls er Platz in seinem Rucksack hat, wird er ihn fangen!\nGeplündert von: Craggle Schlingerkreisel\nDropchance: 23.59%"}
+MultiLanguageSpellData['de'][23190] = {name = "Schwerer Lederball", additional_info = "Wirken in 3.5 sek.\nReagenzien:\nSchweres Leder (2), Feiner Faden\nVerkäufer:\nTamar\nZone:\nOrgrimmar\nKosten:\n20\n\n[q2]Benutzen: Werft den Ball einem freundlich gesinnten Spieler zu. Falls er Platz in seinem Rucksack hat, wird er ihn fangen!\nGeplündert von: Craggle Schlingerkreisel\nDropchance: 23.60%"}
 MultiLanguageSpellData['de'][23192] = {name = "[q4]Stellt Rhok'delar her", additional_info = "Wirken in 10 sek.\nReagenzien:\nAntiker runenverzierter Stab , Verzauberte Schwarzdrachensehne\n[q]Formt Rhok'delar, den Langbogen der uralten Bewahrer, wenn er mit einer verzauberten Schwarzdrachensehne kombiniert wird."}
 MultiLanguageSpellData['de'][23193] = {name = "Stellt Lok'delar her", additional_info = "Wirken in 10 sek.\nReagenzien:\nRhok'delar, Langbogen der uralten Bewahrer\n[q]Transformiert zu Lok'delar, Stab der uralten Bewahrer."}
 MultiLanguageSpellData['de'][23194] = {name = "[q4]Stellt Rhok'delar her", additional_info = "Wirken in 10 sek.\nReagenzien:\nLok'delar, Stab der uralten Bewahrer\n[q]Transformiert zu Rhok'delar, Langbogen der uralten Bewahrer, und Lok'delar, Stab der uralten Bewahrer."}
@@ -9056,8 +9056,8 @@ MultiLanguageSpellData['de'][28564] = {name = "Tempotrank", additional_info = "W
 MultiLanguageSpellData['de'][28565] = {name = "Zerstörungstrank", additional_info = "Wirken in 2 sek.\nReagenzien:\nAlptraumranke (2), Netherblüte , Kristallphiole\nBeute von:\nWeltkreaturen\n\n[q2]Benutzen: Erhöht den kritischen Trefferwert um 2 und die Zaubermacht um 38 . Hält 15 Sek. lang an. (5 Min Abklingzeit)\n25"}
 MultiLanguageSpellData['de'][28566] = {name = "[q2]Transmutieren: Urluft zu Urfeuer", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrluft\n[q]Transmutiert Urluft zu Urfeuer.\nVerkäufer:\nAlmaador\nZone:\nWälder von Terokkar\nDie Sha'tar - Respektvoll\nKosten:\n8\n\n[q2]Urfeuer\nHandwerksmaterial"}
 MultiLanguageSpellData['de'][28567] = {name = "[q2]Transmutieren: Urerde zu Urwasser", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrerde\n[q]Transmutiert Urerde zu Urwasser.\nVerkäufer:\nMycah\nZone:\nZangarmarschen\nSporeggar - Respektvoll\nKosten:\n25\n\n[q2]Urwasser\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 23.50%"}
-MultiLanguageSpellData['de'][28568] = {name = "[q2]Transmutieren: Urfeuer zu Urerde", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrfeuer\n[q]Transmutiert Urfeuer zu Urerde.\nVerkäufer:\nVersorgerin Nasela\nZone:\nNagrand\nDie Mag'har - Respektvoll\nKosten:\n8\n\n[q2]Urerde\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 22.10%"}
-MultiLanguageSpellData['de'][28569] = {name = "[q2]Transmutieren: Urwasser zu Urluft", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrwasser\n[q]Transmutiert Urwasser zu Urluft.\nVerkäufer:\nFedryen Flinkspeer\nZone:\nZangarmarschen\nExpedition des Cenarius - Respektvoll\nKosten:\n8\n\n[q2]Urluft\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 21.92%"}
+MultiLanguageSpellData['de'][28568] = {name = "[q2]Transmutieren: Urfeuer zu Urerde", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrfeuer\n[q]Transmutiert Urfeuer zu Urerde.\nVerkäufer:\nVersorgerin Nasela\nZone:\nNagrand\nDie Mag'har - Respektvoll\nKosten:\n8\n\n[q2]Urerde\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 22.11%"}
+MultiLanguageSpellData['de'][28569] = {name = "[q2]Transmutieren: Urwasser zu Urluft", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrwasser\n[q]Transmutiert Urwasser zu Urluft.\nVerkäufer:\nFedryen Flinkspeer\nZone:\nZangarmarschen\nExpedition des Cenarius - Respektvoll\nKosten:\n8\n\n[q2]Urluft\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 21.91%"}
 MultiLanguageSpellData['de'][28570] = {name = "Elixier des erheblichen Magierbluts", additional_info = "Wirken in 2 sek.\nReagenzien:\nUrflechte , Netherblüte , Kristallphiole\nBeute von:\nWeltkreaturen\n\n[q2]Benutzen: Erhöht Eure Vielseitigkeit 1 Stunde lang um 13 . Kampfelixier. (3 Sek. Abklingzeit)\n25"}
 MultiLanguageSpellData['de'][28571] = {name = "Erheblicher Feuerschutztrank", additional_info = "Wirken in 2 sek.\nReagenzien:\nUrfeuer , Manadistel (3), Kristallphiole (5)\nBeute von:\nDie Mechanar\n\n\n(5)\n[q2]Benutzen: Absorbiert 845 Feuerschaden. Hält 2 Min. lang an. (5 Min Abklingzeit)\n25"}
 MultiLanguageSpellData['de'][28572] = {name = "Erheblicher Frostschutztrank", additional_info = "Wirken in 2 sek.\nReagenzien:\nUrwasser , Manadistel (3), Kristallphiole (5)\nBeute von:\nNexusprinz Shaffar\nZone:\nManagruft\n\n(5)\n[q2]Benutzen: Absorbiert 845 Frostschaden. Hält 2 Min. lang an. (5 Min Abklingzeit)\n25"}
@@ -9071,7 +9071,7 @@ MultiLanguageSpellData['de'][28580] = {name = "[q2]Transmutieren: Urschatten zu 
 MultiLanguageSpellData['de'][28581] = {name = "[q2]Transmutieren: Urwasser zu Urschatten", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrwasser\n[q]Transmutiert Urwasser zu Urschatten.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urschatten\nHandwerksmaterial\nGeplündert von: Verdammnislord Kazzak\nDropchance: 19.44%"}
 MultiLanguageSpellData['de'][28582] = {name = "[q2]Transmutieren: Urmana zu Urfeuer", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrmana\n[q]Transmutiert Urmana zu Urfeuer.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urfeuer\nHandwerksmaterial"}
 MultiLanguageSpellData['de'][28583] = {name = "[q2]Transmutieren: Urfeuer zu Urmana", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrfeuer\n[q]Transmutiert Urfeuer zu Urmana.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urmana\nHandwerksmaterial"}
-MultiLanguageSpellData['de'][28584] = {name = "[q2]Transmutieren: Urleben zu Urerde", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrleben\n[q]Transmutiert Urleben zu Urerde.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urerde\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 22.10%"}
+MultiLanguageSpellData['de'][28584] = {name = "[q2]Transmutieren: Urleben zu Urerde", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrleben\n[q]Transmutiert Urleben zu Urerde.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urerde\nHandwerksmaterial\nGeplündert von: Henker der Zerschmetterten Hand\nDropchance: 22.11%"}
 MultiLanguageSpellData['de'][28585] = {name = "[q2]Transmutieren: Urerde zu Urleben", additional_info = "Wirken in 3 sek. 1 tag Abklingzeit\nTools: Stein der Weisen\nReagenzien:\nUrerde\n[q]Transmutiert Urerde zu Urleben.\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemistische Transmutationen der Scherbenwelt\n\n[q2]Urleben\nHandwerksmaterial"}
 MultiLanguageSpellData['de'][28586] = {name = "Erstklassiger Verjüngungstrank", additional_info = "Wirken in 2 sek.\nReagenzien:\nManadistel (2), Traumwinde , Netherblüte , Kristallphiole\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemierezepte der Scherbenwelt\n\n[q2]Benutzen: Stellt 625 Mana und Gesundheit wieder her. (5 Min Abklingzeit)\n10"}
 MultiLanguageSpellData['de'][28587] = {name = "Fläschchen der Stärkung", additional_info = "Wirken in 2.5 sek.\nReagenzien:\nTeufelslotus , Manadistel (3), Urflechte (7), Kristallphiole\nBeruf:\nAlchemie der Scherbenwelt\nEntdeckung:\nAlchemierezepte der Scherbenwelt\n\n(2)\n[q2]Benutzen: Erhöht 1 Stunde lang Euer Ausweichen um 1 und Eure Maximalgesundheit um 29 . Gilt sowohl als Kampfelixier als auch als Wächterelixier. Der Effekt hält auch nach dem Tode an. (3 Sek. Abklingzeit)\n26"}
@@ -14500,7 +14500,7 @@ MultiLanguageSpellData['de'][37683] = {name = "Entrinnen", additional_info = "So
 MultiLanguageSpellData['de'][37685] = {name = "Meucheln", additional_info = "Nahkampfreichweite\nSofort\n[q]Fügt einem Gegner 150% Waffenschaden zu, aber nur, wenn von hinten angegriffen wird."}
 MultiLanguageSpellData['de'][37688] = {name = "Dreck herstellen", additional_info = nil}
 MultiLanguageSpellData['de'][37689] = {name = "Gestorben", additional_info = nil}
-MultiLanguageSpellData['de'][37690] = {name = "Teuflischen Wachhund beschwören", additional_info = "Wirken in 1.5 sek.\n[q]Beschwört einen teuflischen Wachhund der Euch zur Seite steht."}
+MultiLanguageSpellData['de'][37690] = {name = "Teuflischen Wachhund beschwören", additional_info = "Sofort\n[q]Beschwört einen teuflischen Wachhund der Euch zur Seite steht."}
 MultiLanguageSpellData['de'][37691] = {name = "Verstohlenheitsaufdeckung", additional_info = nil}
 MultiLanguageSpellData['de'][37692] = {name = "Angetäuschter Blutspurt", additional_info = nil}
 MultiLanguageSpellData['de'][37693] = {name = "Naturgewalt", additional_info = "Sofort\n[q]Beschwört 1 Naturgewalt, um dem Zaubernden 30 Sek. lang im Kampf zu helfen."}
@@ -21286,7 +21286,7 @@ MultiLanguageSpellData['de'][47003] = {name = "Brocken erschaffen", additional_i
 MultiLanguageSpellData['de'][47004] = {name = "Rote Feuerwerksrakete", additional_info = "40 Meter Reichweite\nSofort\n[q]Wirft eine explodierende Rakete."}
 MultiLanguageSpellData['de'][47005] = {name = "Brocken werfen", additional_info = "30 - 200 Meter Reichweite\nWirken in 2 sek.\n[q]Wirft einen Brocken auf die Eisenzwerge im freigelegten Bereich von Thor Modan."}
 MultiLanguageSpellData['de'][47007] = {name = "Brockeneinschlag", additional_info = nil}
-MultiLanguageSpellData['de'][47008] = {name = "Berserker", additional_info = "Sofort\n[q]Erhöht das Angriffstempo des Zaubernden um 150% sowie seinen sämtlichen verursachten Schaden um 900%."}
+MultiLanguageSpellData['de'][47008] = {name = "Berserker", additional_info = "Sofort\n[q]Erhöht das Angriffstempo des Zaubernden um 150% sowie seinen sämtlichen verursachten Schaden um 500%."}
 MultiLanguageSpellData['de'][47009] = {name = "Boulder Toss Credit", additional_info = nil}
 MultiLanguageSpellData['de'][47010] = {name = "Blutschwur der Horde", additional_info = nil}
 MultiLanguageSpellData['de'][47011] = {name = "Force Cast Budd Summon", additional_info = nil}
@@ -40853,14 +40853,14 @@ MultiLanguageSpellData['de'][75992] = {name = "Blitzschlagwoge", additional_info
 MultiLanguageSpellData['de'][75993] = {name = "Blitzschlagwoge", additional_info = "60 Meter Reichweite\nSofort\n[q]Lädt ein zufälliges Ziel mit Blitzen auf und lässt das Ziel nach Ablauf von 9 Sek. in der Nähe befindlichen Verbündeten 2121393 Naturschaden zufügen."}
 MultiLanguageSpellData['de'][75994] = {name = "Erblühen", additional_info = "Sofort"}
 MultiLanguageSpellData['de'][75998] = {name = "Wutanfall", additional_info = "Sofort\n[q]Erhöht 1 Min. lang das Angriffstempo des Zaubernden um 50%."}
-MultiLanguageSpellData['de'][76001] = {name = "Pilzsporen", additional_info = "60 Meter Reichweite\nSofort\n[q]Schleudert tödliche Pilzsporen auf ein zufälliges Ziel, die beim Aufkommen auf dem Boden eine Sporenwolke mit einem Radius von 5 Metern hervorrufen. Alle Ziele in diesem Bereich erleiden 15 Sek. lang alle 3 Sek. 4117006 Naturschaden."}
+MultiLanguageSpellData['de'][76001] = {name = "Pilzsporen", additional_info = "60 Meter Reichweite\nSofort\n[q]Schleudert tödliche Pilzsporen auf ein zufälliges Ziel, die beim Aufkommen auf dem Boden eine Sporenwolke mit einem Radius von 5 Metern hervorrufen. Alle Ziele in diesem Bereich erleiden 15 Sek. lang alle 3 Sek. 17 Naturschaden."}
 MultiLanguageSpellData['de'][76002] = {name = "Brennendes Metall", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt dem Ziel Feuerschaden zu."}
 MultiLanguageSpellData['de'][76003] = {name = "Flusskahn", additional_info = nil}
 MultiLanguageSpellData['de'][76004] = {name = "Erde absorbieren", additional_info = nil}
 MultiLanguageSpellData['de'][76005] = {name = "Erde absorbieren", additional_info = nil}
 MultiLanguageSpellData['de'][76006] = {name = "Cosmetic - Fire Pillar", additional_info = nil}
 MultiLanguageSpellData['de'][76007] = {name = "Lavaschwall", additional_info = "Unbegrenzte Reichweite\nSofort\n[q]Fügt Gegnern in einem kleinen Bereich 68 Feuerschaden zu."}
-MultiLanguageSpellData['de'][76008] = {name = "Schockschlag", additional_info = "60 Meter Reichweite\nWirken in 2 sek.\n[q]Überzieht das Ziel mit Blitzen und verursacht 20585054 Naturschaden."}
+MultiLanguageSpellData['de'][76008] = {name = "Schockschlag", additional_info = "60 Meter Reichweite\nWirken in 2 sek.\n[q]Überzieht das Ziel mit Blitzen und verursacht 85 Naturschaden."}
 MultiLanguageSpellData['de'][76010] = {name = "Feurige Explosion", additional_info = nil}
 MultiLanguageSpellData['de'][76011] = {name = "Luftlinie", additional_info = nil}
 MultiLanguageSpellData['de'][76012] = {name = "Egg Wave", additional_info = nil}
@@ -40875,7 +40875,7 @@ MultiLanguageSpellData['de'][76021] = {name = "Ulthok Intro Visual Ceiling Impac
 MultiLanguageSpellData['de'][76022] = {name = "Gezackte Steine", additional_info = "80 Meter Reichweite\nSofort\n[q]Verursacht körperlichen Schaden."}
 MultiLanguageSpellData['de'][76024] = {name = "Transfer Phase 5-6", additional_info = nil}
 MultiLanguageSpellData['de'][76025] = {name = "Flusskahn", additional_info = nil}
-MultiLanguageSpellData['de'][76026] = {name = "Quetschen", additional_info = "60 Meter Reichweite\nWirken in 0.9 sek.\n[q]Greift nach einem zufälligen Gegner und verursacht 6 Sek. lang pro Sekunde 3430838 Schattenschaden."}
+MultiLanguageSpellData['de'][76026] = {name = "Quetschen", additional_info = "60 Meter Reichweite\nWirken in 0.9 sek.\n[q]Greift nach einem zufälligen Gegner und verursacht 6 Sek. lang pro Sekunde 14 Schattenschaden."}
 MultiLanguageSpellData['de'][76028] = {name = "Erschreckendes Brüllen", additional_info = "Sofort\n[q]Lässt in der Nähe befindliche Feinde 4 Sek. lang voller Furcht flüchten."}
 MultiLanguageSpellData['de'][76029] = {name = "Wasser absorbieren", additional_info = nil}
 MultiLanguageSpellData['de'][76030] = {name = "Berserkeransturm", additional_info = "40 Meter Reichweite\n{Sofort} {5 sek. Abklingzeit}\n[q]Stürmt auf einen Gegner zu, stößt ihn zurück und fügt ihm 0 körperlichen Schaden zu."}
@@ -41281,7 +41281,7 @@ MultiLanguageSpellData['de'][76530] = {name = "Gahz'rilla Spike Target Picker", 
 MultiLanguageSpellData['de'][76531] = {name = "Avianas Winde", additional_info = nil}
 MultiLanguageSpellData['de'][76533] = {name = "Eiszapfenatem", additional_info = "Wirken in 1.5 sek.\n[q]Verursacht bei Feinden vor dem Zaubernden Frostschaden und verlangsamt 10 Sek. lang ihre Bewegungsgeschwindigkeit"}
 MultiLanguageSpellData['de'][76534] = {name = "Windlauf", additional_info = nil}
-MultiLanguageSpellData['de'][76535] = {name = "Wasserblitz", additional_info = "{150 Mana} {30 Meter Reichweite}\nWirken in 2 sek.\n[q]Verursacht 5489342 Frostschaden und verringert das Tempo des Ziels um 5%."}
+MultiLanguageSpellData['de'][76535] = {name = "Wasserblitz", additional_info = "{150 Mana} {30 Meter Reichweite}\nWirken in 2 sek.\n[q]Verursacht 23 Frostschaden und verringert das Tempo des Ziels um 5%."}
 MultiLanguageSpellData['de'][76536] = {name = "Verzauberten Meeresleckerbissen erschaffen", additional_info = "Wirken in 1 sek.\nReagenzien:\nBarschlebertran (3)\n[q]Kombiniert eine verzauberte Koralle und 3-mal Barschlebertran, um einen verzauberten Meeresleckerbissen herzustellen."}
 MultiLanguageSpellData['de'][76538] = {name = "Player See Mack", additional_info = nil}
 MultiLanguageSpellData['de'][76541] = {name = "Bombenketten", additional_info = nil}
@@ -44102,7 +44102,7 @@ MultiLanguageSpellData['de'][80558] = {name = "Designer Notes", additional_info 
 MultiLanguageSpellData['de'][80561] = {name = "Flammenschneide", additional_info = "Sofort\n[q]Verursacht 110% Waffenschaden als Feuerschaden."}
 MultiLanguageSpellData['de'][80562] = {name = "Summon Living Contamination", additional_info = "Sofort"}
 MultiLanguageSpellData['de'][80563] = {name = "Erdriss", additional_info = nil}
-MultiLanguageSpellData['de'][80564] = {name = "Pilzsporen", additional_info = "60 Meter Reichweite\nSofort\n[q]Schleudert tödliche Pilzsporen auf ein zufälliges Ziel, die beim Aufkommen auf dem Boden eine Sporenwolke mit einem Radius von 5 Metern hervorrufen. Alle Ziele in diesem Bereich erleiden 15 Sek. lang alle 3 Sek. 4117006 Naturschaden."}
+MultiLanguageSpellData['de'][80564] = {name = "Pilzsporen", additional_info = "60 Meter Reichweite\nSofort\n[q]Schleudert tödliche Pilzsporen auf ein zufälliges Ziel, die beim Aufkommen auf dem Boden eine Sporenwolke mit einem Radius von 5 Metern hervorrufen. Alle Ziele in diesem Bereich erleiden 15 Sek. lang alle 3 Sek. 17 Naturschaden."}
 MultiLanguageSpellData['de'][80568] = {name = "Taxi - Hammerfall to Revantusk", additional_info = nil}
 MultiLanguageSpellData['de'][80569] = {name = "Mimikry", additional_info = "25 Meter Reichweite\nSofort\n[q]Transformiert den Zaubernden, um wie das Ziel auszusehen."}
 MultiLanguageSpellData['de'][80570] = {name = "Mimikry", additional_info = "25 Meter Reichweite\nWirken in 3 sek.\n[q]Verwandelt den Nutzer in ein Ebenbild seines Ziels."}
@@ -46233,8 +46233,8 @@ MultiLanguageSpellData['de'][83910] = {name = "Fahrzeug benutzen", additional_in
 MultiLanguageSpellData['de'][83911] = {name = "Cancel Consumption Ride", additional_info = nil}
 MultiLanguageSpellData['de'][83912] = {name = "Entering Aura", additional_info = nil}
 MultiLanguageSpellData['de'][83913] = {name = "Leaving Aura", additional_info = nil}
-MultiLanguageSpellData['de'][83914] = {name = "Schattenblitz", additional_info = "{90 Mana} {40 Meter Reichweite}\nWirken in 2 sek.\n[q]Schleudert ein Geschoss dunkler Magie und verursacht 5489342 Schattenschaden."}
-MultiLanguageSpellData['de'][83915] = {name = "Hirnstachel", additional_info = "Wirken in 3 sek.\n[q]Fügt allen Gegnern im Umkreis von 40 Metern 7685093 Schattenschaden zu. Zudem werden diesen Zielen 333332 Mana entzogen."}
+MultiLanguageSpellData['de'][83914] = {name = "Schattenblitz", additional_info = "{90 Mana} {40 Meter Reichweite}\nWirken in 2 sek.\n[q]Schleudert ein Geschoss dunkler Magie und verursacht 23 Schattenschaden."}
+MultiLanguageSpellData['de'][83915] = {name = "Hirnstachel", additional_info = "Wirken in 3 sek.\n[q]Fügt allen Gegnern im Umkreis von 40 Metern 32 Schattenschaden zu. Zudem werden diesen Zielen 13 Mana entzogen."}
 MultiLanguageSpellData['de'][83916] = {name = "Eavesdropping Credit", additional_info = nil}
 MultiLanguageSpellData['de'][83918] = {name = "Shurikenwurf", additional_info = "30 Meter Reichweite\nWirken in 1.5 sek.\n[q]Fügt einem feindlichen Ziel Schaden zu, indem tödliche Ninjasterne nach ihm geworfen werden."}
 MultiLanguageSpellData['de'][83919] = {name = "Free Webbed Victim", additional_info = nil}
@@ -46270,8 +46270,8 @@ MultiLanguageSpellData['de'][83958] = {name = "Mobile Banking", additional_info 
 MultiLanguageSpellData['de'][83959] = {name = "Ehrenhafte Erwähnung", additional_info = "[q]Erhöht die erhaltenen Ehrenpunkte um 5%."}
 MultiLanguageSpellData['de'][83960] = {name = "Ehrenhafte Erwähnung", additional_info = "[q]Erhöht die erhaltenen Ehrenpunkte um 10%."}
 MultiLanguageSpellData['de'][83962] = {name = "Tanzende Flammen", additional_info = nil}
-MultiLanguageSpellData['de'][83970] = {name = "Aura des Schreckens", additional_info = "Sofort\n[q]Umgibt den Zaubernden mit einer bösen Aura, die allen Gegnern innerhalb von 7 Metern pro Sekunde 3 Schattenschaden zufügt. Zusätzlich erleiden diese Ziele 5 Sek. lang 5 % mehr Schattenschaden. Dieser Effekt ist bis zu 200-mal stapelbar."}
-MultiLanguageSpellData['de'][83971] = {name = "Aura des Schreckens", additional_info = "Sofort\n[q]Umgibt den Zaubernden mit einer bösen Aura, die allen Gegnern innerhalb von 7 Metern pro Sekunde 567232 Schattenschaden zufügt. Zusätzlich erleiden diese Ziele 5 Sek. lang 5% mehr Schattenschaden. Dieser Effekt ist bis zu 200-mal stapelbar."}
+MultiLanguageSpellData['de'][83970] = {name = "Aura des Schreckens", additional_info = "Sofort\n[q]Umgibt den Zaubernden mit einer bösen Aura, die allen Gegnern innerhalb von 7 Metern pro Sekunde 2 Schattenschaden zufügt. Zusätzlich erleiden diese Ziele 5 Sek. lang 5% mehr Schattenschaden. Dieser Effekt ist bis zu 200-mal stapelbar."}
+MultiLanguageSpellData['de'][83971] = {name = "Aura des Schreckens", additional_info = "Sofort\n[q]Umgibt den Zaubernden mit einer bösen Aura, die allen Gegnern innerhalb von 7 Metern pro Sekunde 2 Schattenschaden zufügt. Zusätzlich erleiden diese Ziele 5 Sek. lang 5% mehr Schattenschaden. Dieser Effekt ist bis zu 200-mal stapelbar."}
 MultiLanguageSpellData['de'][83975] = {name = "Schattenschlag", additional_info = nil}
 MultiLanguageSpellData['de'][83976] = {name = "Schrumpfen", additional_info = nil}
 MultiLanguageSpellData['de'][83977] = {name = "Schattenschlag", additional_info = nil}
@@ -46283,7 +46283,7 @@ MultiLanguageSpellData['de'][83982] = {name = "Summon Agatha", additional_info =
 MultiLanguageSpellData['de'][83983] = {name = "Limonensaft", additional_info = "Nahkampfreichweite\nSofort\n[q]Fügt einem Feind alle 3 Sek. Naturschaden zu und verringert seine Trefferchance um 30%. Hält 6 Sek. lang an."}
 MultiLanguageSpellData['de'][83984] = {name = "Skystrider Exhaust Flames", additional_info = nil}
 MultiLanguageSpellData['de'][83985] = {name = "Seuchensprühen", additional_info = "{Kanalisiert (Wirken in} {4 sek.) 5 sek. Abklingzeit}\n[q]Versprüht 4 Sek. lang in einem kegelförmigen Bereich vor dem Zaubernden einen beständigen Strom von Ozumats Seuche, der allen Feinden innerhalb von 25 Metern pro Sekunde 2744671 Schattenschaden zufügt."}
-MultiLanguageSpellData['de'][83986] = {name = "Seuchensprühen", additional_info = "Sofort\n[q]Versprüht 4 Sek. lang in einem kegelförmigen Bereich vor dem Zaubernden einen beständigen Strom von Ozumats Seuche, der allen Feinden innerhalb von 25 Metern pro Sekunde 2744671 Schattenschaden zufügt."}
+MultiLanguageSpellData['de'][83986] = {name = "Seuchensprühen", additional_info = "Sofort\n[q]Versprüht 4 Sek. lang in einem kegelförmigen Bereich vor dem Zaubernden einen beständigen Strom von Ozumats Seuche, der allen Feinden innerhalb von 25 Metern pro Sekunde 11 Schattenschaden zufügt."}
 MultiLanguageSpellData['de'][83987] = {name = "Clear Spirit Power", additional_info = nil}
 MultiLanguageSpellData['de'][83988] = {name = "Apply Quest Invis Zone 3", additional_info = nil}
 MultiLanguageSpellData['de'][83989] = {name = "Detect: Quest Invis Zone 3", additional_info = nil}
@@ -46333,7 +46333,7 @@ MultiLanguageSpellData['de'][84033] = {name = "Samuelson Unmasked", additional_i
 MultiLanguageSpellData['de'][84034] = {name = "Update Zone Auras and Phase Shift (Demon Creator)", additional_info = nil}
 MultiLanguageSpellData['de'][84035] = {name = "See Quest Invis 14", additional_info = nil}
 MultiLanguageSpellData['de'][84036] = {name = "Welle der Heilung", additional_info = "{145 Mana} {40 Meter Reichweite}\nWirken in 3 sek.\n[q]Ruft Naturmagie an, um einen Verbündeten zu heilen."}
-MultiLanguageSpellData['de'][84037] = {name = "Reines Wasser", additional_info = "Unbegrenzte Reichweite\nWirken in 1 sek.\n[q]Beschießt das Ziel mit reinem Wasser und verursacht 56723145 Frostschaden."}
+MultiLanguageSpellData['de'][84037] = {name = "Reines Wasser", additional_info = "Unbegrenzte Reichweite\nWirken in 1 sek.\n[q]Beschießt das Ziel mit reinem Wasser und verursacht 234 Frostschaden."}
 MultiLanguageSpellData['de'][84038] = {name = "Obsidium verhütten", additional_info = "Wirken in 1.5 sek.\nReagenzien:\nObsidiumerz (2)\n[q]Ermöglicht dem Minenarbeiter, Obsidiumerz zu einem Obsidiumbarren zu verhütten. Erfordert eine Schmiede.\nBerufsausbilder:\nBergbau des Kataklysmus (1)\nKosten:\n10\n\nObsidiumbarren\nHandwerksmaterial"}
 MultiLanguageSpellData['de'][84039] = {name = "Machtwort: Schild", additional_info = "40 Meter Reichweite\nSofort\n[q]Umgibt einen Verbündeten mit einem Schild, der bis zu 6 Sek. lang bestehen bleibt und maximal 4 körperlichen oder magischen Schaden absorbiert. Solange der Schild hält, werden Zauber nicht durch körperliche Angriffe unterbrochen."}
 MultiLanguageSpellData['de'][84040] = {name = "Diamant Ping 000", additional_info = nil}
