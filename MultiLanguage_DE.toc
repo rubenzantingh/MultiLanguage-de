@@ -1,8 +1,8 @@
-## Interface: 120005
+## Interface: 120105
 ## Title: MultiLanguage_DE
 ## Notes: DE language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.0.25
+## Version: 1.0.26
 ## Dependencies: MultiLanguage
 
 Database/Quests/quests.lua
